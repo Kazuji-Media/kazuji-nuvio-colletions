@@ -14,6 +14,17 @@ As versões abaixo usam texto em português do Brasil e gradientes animados em S
 | Recomendações | [recomendacoes.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/recomendacoes.svg) |
 | Pasta Apple TV+ | [apple-tv-plus.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/apple-tv-plus.svg) |
 
+As capas de **Descobrir** usam o mesmo degradê animado, cada uma com um título próprio em pt-BR:
+
+| Pasta | Capa |
+|---|---|
+| Filmes recentes | [filmes-recentes.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/filmes-recentes.svg) |
+| Séries recentes | [series-recentes.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/series-recentes.svg) |
+| Filmes em alta | [filmes-em-alta.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/filmes-em-alta.svg) |
+| Séries em alta | [series-em-alta.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/series-em-alta.svg) |
+| Séries aclamadas | [series-aclamadas.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/series-aclamadas.svg) |
+| Filmes aclamados | [filmes-aclamados.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/filmes-aclamados.svg) |
+
 Prévia:
 
 ![Recomendados](assets/covers/recomendados.svg)

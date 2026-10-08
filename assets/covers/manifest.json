@@ -16,6 +16,48 @@
       "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/em-alta.svg"
     },
     {
+      "id": "filmes-recentes",
+      "title": "Filmes Recentes",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/filmes-recentes.svg"
+    },
+    {
+      "id": "series-recentes",
+      "title": "Séries Recentes",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/series-recentes.svg"
+    },
+    {
+      "id": "filmes-em-alta",
+      "title": "Filmes em Alta",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/filmes-em-alta.svg"
+    },
+    {
+      "id": "series-em-alta",
+      "title": "Séries em Alta",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/series-em-alta.svg"
+    },
+    {
+      "id": "series-aclamadas",
+      "title": "Séries Aclamadas",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/series-aclamadas.svg"
+    },
+    {
+      "id": "filmes-aclamados",
+      "title": "Filmes Aclamados",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/filmes-aclamados.svg"
+    },
+    {
       "id": "populares",
       "title": "Populares",
       "format": "svg",

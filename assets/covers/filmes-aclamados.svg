@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 362 196" role="img" aria-labelledby="title desc">
+  <title id="title">Filmes Aclamados</title>
+  <desc id="desc">Capa de gradiente animado para Filmes Aclamados no catálogo Nuvio.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101016"/><stop offset="1" stop-color="#05060a"/></linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d533aa"/><stop offset=".55" stop-color="#fb6240"/><stop offset="1" stop-color="#16a88a"/></linearGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity=".04"/><stop offset=".55" stop-color="#000" stop-opacity=".10"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></linearGradient>
+    <filter id="blur" x="-40%" y="-50%" width="180%" height="200%"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feGaussianBlur in="SourceAlpha" stdDeviation="3"/><feOffset dy="2"/><feComponentTransfer><feFuncA type="linear" slope=".5"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="362" height="196" rx="18" fill="url(#base)"/>
+  <g filter="url(#blur)" opacity=".9">
+    <ellipse cx="82" cy="138" rx="142" ry="86" fill="#d533aa"><animate attributeName="cx" values="82;139;82" dur="11s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="286" cy="52" rx="132" ry="80" fill="#fb6240"><animate attributeName="cy" values="52;104;52" dur="13s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="226" cy="160" rx="106" ry="60" fill="#16a88a"><animate attributeName="cx" values="226;178;226" dur="9s" repeatCount="indefinite"/></ellipse>
+  </g>
+  <path d="M-18 160 C 68 99, 181 191, 380 68 L380 147 C220 221, 115 121, -18 196 Z" fill="url(#beam)" opacity=".35">
+    <animateTransform attributeName="transform" type="translate" values="0 0;14 -5;0 0" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <rect width="362" height="196" rx="18" fill="url(#shade)"/>
+  <text x="24" y="151" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="750" letter-spacing="-0.8" textLength="320" lengthAdjust="spacingAndGlyphs" filter="url(#shadow)">Filmes Aclamados</text>
+</svg>
