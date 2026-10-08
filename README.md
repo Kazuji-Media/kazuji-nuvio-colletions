@@ -8,11 +8,11 @@ As versões abaixo usam texto em português do Brasil e gradientes animados em S
 
 | Uso | Arquivo |
 |---|---|
-| Recomendados | [recomendados.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/recomendados.svg) |
-| Em alta | [em-alta.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/em-alta.svg) |
-| Populares | [populares.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/populares.svg) |
-| Recomendações | [recomendacoes.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/recomendacoes.svg) |
-| Pasta Apple TV+ | [apple-tv-plus.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/apple-tv-plus.svg) |
+| Recomendados | [recomendados.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/recomendados.svg) |
+| Em alta | [em-alta.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/em-alta.svg) |
+| Populares | [populares.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/populares.svg) |
+| Recomendações | [recomendacoes.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/recomendacoes.svg) |
+| Pasta Apple TV+ | [apple-tv-plus.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/apple-tv-plus.svg) |
 
 Prévia:
 
@@ -40,38 +40,38 @@ Veja [docs/fontes-tmdb.md](docs/fontes-tmdb.md) para as opções de descoberta, 
 
 ## Capas de gêneros e décadas
 
-As capas dos gêneros preservam a arte preto e branco das imagens usadas na coleção complementar; os rótulos foram localizados para pt-BR. A capa de Suspense foi criada no mesmo estilo.
+As capas dos gêneros preservam a arte preto e branco das imagens usadas na coleção complementar; os rótulos foram localizados para pt-BR. As imagens originais foram copiadas sem alteração para [assets/covers/generos/originais](https://github.com/Kazuji-Media/kazuji-nuvio-colletions/tree/feat/ptbr-collections-artwork/assets/covers/generos/originais). A capa de Suspense usa uma composição original com rosto e mariposa, inspirada na referência enviada, no mesmo estilo gráfico.
 
-| Gênero | Arquivo |
-|---|---|
-| Ação | [acao.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/acao.png) |
-| Animação | [animacao.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/animacao.png) |
-| Comédia | [comedia.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/comedia.png) |
-| Crime | [crime.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/crime.png) |
-| Documentário | [documentario.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/documentario.png) |
-| Fantasia | [fantasia.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/fantasia.png) |
-| Ficção científica | [ficcao-cientifica.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/ficcao-cientifica.png) |
-| Faroeste | [faroeste.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/faroeste.png) |
-| História | [historia.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/historia.png) |
-| Suspense | [suspense.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/suspense.png) |
-| Terror | [terror.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/terror.png) |
+| Gênero | Capa pt-BR | Arte original |
+|---|---|---|
+| Ação | [acao.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/acao.png) | [acao-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/acao-original.png) |
+| Animação | [animacao.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/animacao.png) | [animacao-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/animacao-original.png) |
+| Comédia | [comedia.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/comedia.png) | [comedia-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/comedia-original.png) |
+| Crime | [crime.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/crime.png) | [crime-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/crime-original.png) |
+| Documentário | [documentario.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/documentario.png) | [documentario-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/documentario-original.png) |
+| Fantasia | [fantasia.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/fantasia.png) | [fantasia-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/fantasia-original.png) |
+| Ficção científica | [ficcao-cientifica.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/ficcao-cientifica.png) | [ficcao-cientifica-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/ficcao-cientifica-original.png) |
+| Faroeste | [faroeste.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/faroeste.png) | [faroeste-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/faroeste-original.png) |
+| História | [historia.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/historia.png) | [historia-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/historia-original.png) |
+| Suspense | [suspense.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/suspense.png) | Criação nova |
+| Terror | [terror.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/terror.png) | [terror-original.png](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/originais/terror-original.png) |
 
 As capas de décadas substituem imagens hospedadas no Nuvio que não carregavam:
 
 | Década | Arquivo |
 |---|---|
-| Anos 1990 | [anos-1990.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/decadas/anos-1990.svg) |
-| Anos 2000 | [anos-2000.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/decadas/anos-2000.svg) |
-| Anos 2010 | [anos-2010.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/decadas/anos-2010.svg) |
-| Anos 2020 | [anos-2020.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/decadas/anos-2020.svg) |
+| Anos 1990 | [anos-1990.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/decadas/anos-1990.svg) |
+| Anos 2000 | [anos-2000.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/decadas/anos-2000.svg) |
+| Anos 2010 | [anos-2010.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/decadas/anos-2010.svg) |
+| Anos 2020 | [anos-2020.svg](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/decadas/anos-2020.svg) |
 
-As artes-base de gêneros foram obtidas de [tolbertsol/nuvio](https://github.com/tolbertsol/nuvio/tree/main/images/genres/silhouettes) e receberam apenas a troca dos rótulos em inglês. Crime já estava escrito da mesma forma em português e foi copiado sem alteração. Veja [docs/capas-generos.md](docs/capas-generos.md) para a correspondência das fontes.
+As artes-base de gêneros foram obtidas de [tolbertsol/nuvio](https://github.com/tolbertsol/nuvio/tree/main/images/genres/silhouettes), preservadas sem alteração na pasta `originais/` e acompanhadas de versões localizadas. Crime já estava escrito da mesma forma em português. Veja [docs/capas-generos.md](docs/capas-generos.md) para a correspondência das fontes.
 
 ## GIFs de streamings
 
 | Serviço | Arquivo |
 |---|---|
-| Netflix | [netflix.gif](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/streamings/netflix.gif) |
-| Paramount+ | [paramount-plus.gif](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/streamings/paramount-plus.gif) |
+| Netflix | [netflix.gif](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/netflix.gif) |
+| Paramount+ | [paramount-plus.gif](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/paramount-plus.gif) |
 
 As duas animações foram publicadas pelos perfis verificados [NETFLIX](https://giphy.com/gifs/netflix-4KFmqHyCeKrh8FEAUu) e [Paramount+](https://giphy.com/gifs/paramountplus-paramount-plus-RYqQ4xZJ3GGDAU9Akm) no GIPHY. Foram usadas variantes reduzidas para carregar melhor em dispositivos móveis.
