@@ -16,6 +16,48 @@
       "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/em-alta.svg"
     },
     {
+      "id": "filmes-recentes",
+      "title": "Filmes Recentes",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/filmes-recentes.svg"
+    },
+    {
+      "id": "series-recentes",
+      "title": "Séries Recentes",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/series-recentes.svg"
+    },
+    {
+      "id": "filmes-em-alta",
+      "title": "Filmes em Alta",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/filmes-em-alta.svg"
+    },
+    {
+      "id": "series-em-alta",
+      "title": "Séries em Alta",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/series-em-alta.svg"
+    },
+    {
+      "id": "series-aclamadas",
+      "title": "Séries Aclamadas",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/series-aclamadas.svg"
+    },
+    {
+      "id": "filmes-aclamados",
+      "title": "Filmes Aclamados",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/filmes-aclamados.svg"
+    },
+    {
       "id": "populares",
       "title": "Populares",
       "format": "svg",
@@ -35,11 +77,132 @@
       "format": "svg",
       "animatedGradient": true,
       "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/apple-tv-plus.svg"
+    },
+    {
+      "id": "genero-acao",
+      "format": "png",
+      "title": "Ação",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/acao.png"
+    },
+    {
+      "id": "genero-fantasia",
+      "format": "png",
+      "title": "Fantasia",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/fantasia.png"
+    },
+    {
+      "id": "genero-ficcao-cientifica",
+      "format": "png",
+      "title": "Ficção científica",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/ficcao-cientifica.png"
+    },
+    {
+      "id": "genero-terror",
+      "format": "png",
+      "title": "Terror",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/terror.png"
+    },
+    {
+      "id": "genero-animacao",
+      "format": "png",
+      "title": "Animação",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/animacao.png"
+    },
+    {
+      "id": "genero-crime",
+      "format": "png",
+      "title": "Crime",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/crime.png"
+    },
+    {
+      "id": "genero-comedia",
+      "format": "png",
+      "title": "Comédia",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/comedia.png"
+    },
+    {
+      "id": "genero-historia",
+      "format": "png",
+      "title": "História",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/historia.png"
+    },
+    {
+      "id": "genero-documentario",
+      "format": "png",
+      "title": "Documentário",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/documentario.png"
+    },
+    {
+      "id": "genero-faroeste",
+      "format": "png",
+      "title": "Faroeste",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/faroeste.png"
+    },
+    {
+      "id": "genero-suspense",
+      "format": "png",
+      "title": "Suspense",
+      "animatedGradient": false,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/generos/suspense.png"
+    },
+    {
+      "id": "decada-1990",
+      "format": "svg",
+      "title": "Anos 1990",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/decadas/anos-1990.svg"
+    },
+    {
+      "id": "decada-2000",
+      "format": "svg",
+      "title": "Anos 2000",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/decadas/anos-2000.svg"
+    },
+    {
+      "id": "decada-2010",
+      "format": "svg",
+      "title": "Anos 2010",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/decadas/anos-2010.svg"
+    },
+    {
+      "id": "decada-2020",
+      "format": "svg",
+      "title": "Anos 2020",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/decadas/anos-2020.svg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/streamings/netflix.gif",
+      "format": "gif",
+      "title": "Netflix",
+      "id": "streaming-netflix",
+      "animated": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/streamings/paramount-plus.gif",
+      "format": "gif",
+      "title": "Paramount+",
+      "id": "streaming-paramount-plus",
+      "animated": true
     }
   ],
   "references": {
     "recommended": "https://s13.gifyu.com/images/bqg1K.gif",
     "trending": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYzenpuNGlla3g0enVvejliN256anEwMjIxd2oyN3gxcmRuZGsyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEqOn4HBV7EKhNRxxu/giphy.gif",
-    "popular": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR1bGV3MzVhcmFibWFsM2xxOXJndmdnZWRiejd6aWN5bjVjNzE3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIsUa2Bmgh5vKACu7v/giphy.gif"
+    "popular": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR1bGV3MzVhcmFibWFsM2xxOXJndmdnZWRiejd6aWN5bjVjNzE3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIsUa2Bmgh5vKACu7v/giphy.gif",
+    "netflix": "https://giphy.com/gifs/netflix-4KFmqHyCeKrh8FEAUu",
+    "paramountPlus": "https://giphy.com/gifs/paramountplus-paramount-plus-RYqQ4xZJ3GGDAU9Akm"
   }
 }
