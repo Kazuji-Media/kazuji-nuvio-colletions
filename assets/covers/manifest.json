@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "covers": [
+    {
+      "id": "recomendados",
+      "title": "Recomendados",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/recomendados.svg"
+    },
+    {
+      "id": "em-alta",
+      "title": "Em alta",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/em-alta.svg"
+    },
+    {
+      "id": "populares",
+      "title": "Populares",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/populares.svg"
+    },
+    {
+      "id": "recomendacoes",
+      "title": "Recomendações",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/recomendacoes.svg"
+    },
+    {
+      "id": "apple-tv-plus",
+      "title": "Apple TV+",
+      "format": "svg",
+      "animatedGradient": true,
+      "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/main/assets/covers/apple-tv-plus.svg"
+    }
+  ],
+  "references": {
+    "recommended": "https://s13.gifyu.com/images/bqg1K.gif",
+    "trending": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYzenpuNGlla3g0enVvejliN256anEwMjIxd2oyN3gxcmRuZGsyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEqOn4HBV7EKhNRxxu/giphy.gif",
+    "popular": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR1bGV3MzVhcmFibWFsM2xxOXJndmdnZWRiejd6aWN5bjVjNzE3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIsUa2Bmgh5vKACu7v/giphy.gif"
+  }
+}
