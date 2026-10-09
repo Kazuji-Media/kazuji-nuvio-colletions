@@ -6,7 +6,7 @@ Fontes oficiais: [97ª edição, 2025](https://www.oscars.org/oscars/ceremonies/
 
 ## Instalação e navegação
 
-Manifest previsto: `https://kazuji-media.github.io/kazuji-nuvio-colletions/premiacoes/manifest.json`.
+Manifest publicado: `https://kazuji-media.github.io/kazuji-nuvio-colletions/premiacoes/manifest.json`.
 
 No Nuvio, adicionar esse endereço como addon. Ele declara somente `catalog`; outros addons instalados resolvem os metadados completos e a reprodução pelos IDs IMDb.
 
@@ -60,6 +60,24 @@ O primeiro deploy foi rejeitado pela regra automática de ambiente que permitia 
 - Geração determinística, duas edições, dez indicados e vencedor correto em cada uma.
 - Alias aponta para a edição mais recente e fica sem vencedores quando a edição ainda aguarda resultados.
 - Workflow executa os testes, gera e publica; manifesto e todos os caminhos respondem como JSON público.
-- Instalação em TV e mobile, troca de ano, abertura de obra e atualização após nova publicação: dependem de validação nos aplicativos. Leitura dos caminhos e filtros foi confirmada no código público dos dois clientes; isso não substitui o teste de uso.
+- Instalação e navegação aprovadas no Nuvio Desktop descrito abaixo. TV/mobile e atualização após uma nova publicação continuam a validar; a leitura dos caminhos e filtros no código público desses clientes não substitui o teste de uso.
+
+### Configuração da conta e teste no aplicativo
+
+Em 08/10/2026, a pedido do usuário, o manifest foi adicionado pelo Nuvio Account e habilitado. A página de addons confirmou 30 instalações. No Profile 1, foi salva a coleção `kazuji-premiacoes`, título Premiações, com duas pastas e duas fontes: Melhor Filme · Vencedores (`oscar-vencedores`) e Melhor Filme · Indicados (`oscar-melhor-filme-indicados`). Cada fonte usa seu catálogo correspondente sem gênero fixo, abrindo a última edição.
+
+Também foi salva a pasta `premiacoes` dentro da coleção Descobrir, com as mesmas duas fontes. A revisão preservou as seis pastas/fontes anteriores; Descobrir passou a sete pastas e oito fontes. A conta passou a dez coleções. Não foi obtido um export local completo: as capturas de validação não são um backup. A ordenação completa da home e as artes não foram alteradas nesta prova.
+
+Validação por interface no **Nuvio Desktop 0.1.25-alpha (25), Tapframe, baseado em Nuvio 0.4.26**, instalado no Windows:
+
+- Após reiniciar o aplicativo e selecionar o perfil, o novo addon e a coleção apareceram sem instalação local adicional.
+- Buscar → Descobrir → Oscar · Vencedores abriu One Battle After Another no catálogo sem filtro; escolher 2025 no filtro nativo de gênero abriu Anora. Os valores 2026 e 2025 foram apresentados no seletor.
+- O catálogo de indicados sem filtro mostrou os dez filmes de 2026, incluindo o vencedor. Um detalhe de filme abriu Sonhos de Trem com sinopse, arte e metadados em português. Não foi testada reprodução.
+- Na home, Premiações → Melhor Filme · Vencedores mostrou o vencedor de 2026 e Premiações → Melhor Filme · Indicados mostrou os dez indicados.
+- Descobrir → Premiações abriu abas de vencedores e indicados, com o mesmo vencedor e os mesmos dez filmes. Foram conferidos os dois acessos solicitados.
+
+As capturas de conta, coleção, atalho e catálogo foram mantidas localmente, fora do repositório público. Este teste confirma o cliente Desktop observado; não certifica Google TV ou Android mobile e não amplia a cobertura além de Melhor Filme 2025/2026.
+
+Durante a montagem, mudar o ID de uma pasta nova fez o builder web retornar a seleção para a primeira pasta. As alterações involuntárias no rascunho foram detectadas na revisão e restauradas antes de salvar. Ao editar IDs, reselecionar a pasta desejada e conferir a revisão final.
 
 Somente depois desta prova, ampliar para todas as categorias/famílias e histórico desde 2000, preservar vencedores únicos por edição e usar a mesma origem nos dois acessos de Premiações.
