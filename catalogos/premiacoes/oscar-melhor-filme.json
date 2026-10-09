@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "category": "best-picture",
+  "verifiedOn": "2026-10-08",
+  "editions": [
+    {
+      "year": 2025,
+      "status": "results",
+      "source": "https://www.oscars.org/oscars/ceremonies/2025",
+      "nominees": [
+        {
+          "id": "tt28607951",
+          "name": "Anora",
+          "originalName": "Anora",
+          "releaseYear": 2024,
+          "winner": true,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Anora.json"
+        },
+        {
+          "id": "tt8999762",
+          "name": "The Brutalist",
+          "originalName": "The Brutalist",
+          "releaseYear": 2024,
+          "winner": false,
+          "poster": "https://images.metahub.space/poster/small/tt8999762/img",
+          "idSource": "https://v3-cinemeta.strem.io/meta/movie/tt8999762.json"
+        },
+        {
+          "id": "tt11563598",
+          "name": "A Complete Unknown",
+          "originalName": "A Complete Unknown",
+          "releaseYear": 2024,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=A%20Complete%20Unknown.json"
+        },
+        {
+          "id": "tt20215234",
+          "name": "Conclave",
+          "originalName": "Conclave",
+          "releaseYear": 2024,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Conclave.json"
+        },
+        {
+          "id": "tt15239678",
+          "name": "Dune: Part Two",
+          "originalName": "Dune: Part Two",
+          "releaseYear": 2024,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Dune%3A%20Part%20Two.json"
+        },
+        {
+          "id": "tt20221436",
+          "name": "Emilia Pérez",
+          "originalName": "Emilia Pérez",
+          "releaseYear": 2024,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Emilia%20Perez.json"
+        },
+        {
+          "id": "tt14961016",
+          "name": "Ainda Estou Aqui",
+          "originalName": "I'm Still Here",
+          "releaseYear": 2024,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=I%27m%20Still%20Here.json"
+        },
+        {
+          "id": "tt23055660",
+          "name": "Nickel Boys",
+          "originalName": "Nickel Boys",
+          "releaseYear": 2024,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMGRkMzIyY2QtMjc5My00NGRjLWE5ZGUtYjRiMDNjMzAwOTU0XkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Nickel%20Boys.json"
+        },
+        {
+          "id": "tt17526714",
+          "name": "The Substance",
+          "originalName": "The Substance",
+          "releaseYear": 2024,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=The%20Substance.json"
+        },
+        {
+          "id": "tt1262426",
+          "name": "Wicked",
+          "originalName": "Wicked",
+          "releaseYear": 2024,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Wicked.json"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "status": "results",
+      "source": "https://www.oscars.org/oscars/ceremonies/2026",
+      "nominees": [
+        {
+          "id": "tt30144839",
+          "name": "One Battle After Another",
+          "originalName": "One Battle After Another",
+          "releaseYear": 2025,
+          "winner": true,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=One%20Battle%20After%20Another.json"
+        },
+        {
+          "id": "tt12300742",
+          "name": "Bugonia",
+          "originalName": "Bugonia",
+          "releaseYear": 2025,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Bugonia.json"
+        },
+        {
+          "id": "tt16311594",
+          "name": "F1: The Movie",
+          "originalName": "F1: The Movie",
+          "releaseYear": 2025,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=F1.json"
+        },
+        {
+          "id": "tt1312221",
+          "name": "Frankenstein",
+          "originalName": "Frankenstein",
+          "releaseYear": 2025,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Frankenstein.json"
+        },
+        {
+          "id": "tt14905854",
+          "name": "Hamnet",
+          "originalName": "Hamnet",
+          "releaseYear": 2025,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Hamnet.json"
+        },
+        {
+          "id": "tt32916440",
+          "name": "Marty Supreme",
+          "originalName": "Marty Supreme",
+          "releaseYear": 2025,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Marty%20Supreme.json"
+        },
+        {
+          "id": "tt27847051",
+          "name": "O Agente Secreto",
+          "originalName": "The Secret Agent",
+          "releaseYear": 2025,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNDlkMzNhYzgtNTk1Yi00M2I1LTlkOTMtY2RmZGU3YzVmMzE2XkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=The%20Secret%20Agent.json"
+        },
+        {
+          "id": "tt27714581",
+          "name": "Sentimental Value",
+          "originalName": "Sentimental Value",
+          "releaseYear": 2025,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTMwMTk0Y2QtY2VhNy00OGYwLThkMjMtZjkwMGI3MTJiMjAyXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Sentimental%20Value.json"
+        },
+        {
+          "id": "tt31193180",
+          "name": "Sinners",
+          "originalName": "Sinners",
+          "releaseYear": 2025,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Sinners.json"
+        },
+        {
+          "id": "tt29768334",
+          "name": "Train Dreams",
+          "originalName": "Train Dreams",
+          "releaseYear": 2025,
+          "winner": false,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_SX250.jpg",
+          "idSource": "https://v3-cinemeta.strem.io/catalog/movie/top/search=Train%20Dreams.json"
+        }
+      ]
+    }
+  ]
+}

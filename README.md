@@ -2,6 +2,10 @@
 
 Capas, emblemas e referências de fontes para as coleções do Nuvio. O repositório é público e os arquivos podem ser usados diretamente por URL do GitHub Raw.
 
+## Premiações — prova de catálogo
+
+Catálogo estático do Oscar de Melhor Filme, com indicados e vencedores de 2025 e 2026. O GitHub Actions valida, gera e publica os arquivos no Pages. Veja [escopo, geração e instalação](docs/premiacoes-prova.md). Novos resultados ainda são adicionados por conferência ao arquivo de dados; a coleta automática de todas as premiações será uma etapa posterior.
+
 ## Capas
 
 As versões abaixo usam texto em português do Brasil e gradientes animados em SVG. São novas variações vetoriais inspiradas nas capas da comunidade; não alteram nem redistribuem os GIFs de terceiros.
