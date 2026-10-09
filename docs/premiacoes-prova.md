@@ -53,6 +53,10 @@ Referências técnicas: [protocolo estático Stremio](https://github.com/Stremio
 
 ## Aceite da prova
 
+Verificação em 08/10/2026 (America/Sao_Paulo): seis testes locais aprovados e testes/build aprovados no runner Linux. [Execução de publicação](https://github.com/Kazuji-Media/kazuji-nuvio-colletions/actions/runs/37863169734) concluída com sucesso. Os dez JSONs públicos responderam HTTP 200, `application/json` e `Access-Control-Allow-Origin: *`; conferidos dez indicados por edição, os vencedores Anora/One Battle After Another e equivalência do alias com 2026. [Página da prova](https://kazuji-media.github.io/kazuji-nuvio-colletions/) e [manifest](https://kazuji-media.github.io/kazuji-nuvio-colletions/premiacoes/manifest.json) publicados. [PR #2](https://github.com/Kazuji-Media/kazuji-nuvio-colletions/pull/2) em rascunho para revisão, sem merge.
+
+O primeiro deploy foi rejeitado pela regra automática de ambiente que permitia somente `main`. Foi acrescentada a permissão específica `feat/premiacoes-prova`, preservando `main`, e a execução foi repetida com sucesso. Não foi uma falha do catálogo nem dos testes. Remover essa permissão provisória após a integração em `main`.
+
 - Geração determinística, duas edições, dez indicados e vencedor correto em cada uma.
 - Alias aponta para a edição mais recente e fica sem vencedores quando a edição ainda aguarda resultados.
 - Workflow executa os testes, gera e publica; manifesto e todos os caminhos respondem como JSON público.
