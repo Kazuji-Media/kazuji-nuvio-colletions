@@ -31,7 +31,8 @@ pre {white-space:pre-wrap;overflow-wrap:anywhere;background:#10141b;padding:16px
 </section>
 <section id="controls" hidden>
 <h2>2. Conferir o estado atual</h2>
-<label>Perfil <select id="profile"><option value="1">Perfil 1</option><option value="2">Perfil 2</option><option value="3">Perfil 3</option><option value="4">Perfil 4</option><option value="5">Perfil 5</option><option value="6">Perfil 6</option></select></label>
+<label>Seu perfil Nuvio <select id="profile"><option value="0">Carregando perfis da conta…</option></select></label>
+<p id="profileHelp" class="muted"></p>
 <button class="secondary" id="read">Reler coleções</button>
 <p id="state">Conta conectada.</p>
 <div class="grid">
@@ -57,9 +58,21 @@ async function api(path, payload={}) {
 }
 async function readState() {
   invalidate();
+  if(!$('profile').value || $('profile').value==='0') { $('state').textContent='Selecione seu perfil pelo nome e pelas coleções abaixo.'; return; }
   const result=await api('state');
-  $('state').textContent=`Perfil ${result.profile}: ${result.collections} coleções. ${result.collectionA? 'Coleção A atual: '+result.collectionA.title+'.':'A ainda não foi criada.'}`;
+  $('state').textContent=`${result.profileName} (perfil ${result.profile}): ${result.collections} coleções. ${result.collectionA? 'Coleção A atual: '+result.collectionA.title+'.':'A ainda não foi criada.'}`;
   $('jsonState').textContent=JSON.stringify(result.collectionA,null,2);
+}
+async function loadProfiles() {
+  const result=await api('profiles');
+  $('profile').replaceChildren(new Option('Escolha seu perfil', '0'));
+  for(const p of result.profiles) {
+    const option=new Option(`${p.name} · perfil ${p.index} · ${p.locked?'protegido por PIN':p.collections+' coleções'}`,String(p.index));
+    option.disabled=p.locked; $('profile').append(option);
+  }
+  $('profileHelp').textContent=result.profiles.map(p=>`${p.name} (${p.index}): ${p.locked?'protegido por PIN':p.titles.join(', ')||'sem coleções'}`).join(' | ');
+  const available=result.profiles.filter(p=>!p.locked);
+  if(available.length===1) $('profile').value=String(available[0].index);
 }
 async function busy(action) {
   document.querySelectorAll('button,select,input').forEach(e=>e.disabled=true);
@@ -71,13 +84,14 @@ $('loginForm').onsubmit=e=>{e.preventDefault();busy(async()=>{
   const password=$('password').value; $('password').value='';
   await api('login',{email:$('email').value,password});
   $('email').value=''; $('loginPanel').hidden=true; $('controls').hidden=false;
+  await loadProfiles();
   await readState(); message('Conectado. Prepare uma versão para continuar.');
 });};
 $('read').onclick=()=>busy(async()=>{await readState();message('Estado confirmado pela API.');});
 $('profile').onchange=()=>busy(async()=>{await readState();message('Perfil selecionado.');});
 document.querySelectorAll('[data-preview]').forEach(button=>button.onclick=()=>busy(async()=>{
   invalidate(); prepared=await api('preview',{version:button.dataset.preview});
-  $('previewText').textContent=`${prepared.currentTitle||'Nova coleção'} → ${prepared.targetTitle}: ${prepared.film}. ${prepared.otherCollectionsPreserved} outras coleções serão preservadas. Total: ${prepared.collectionsBefore} → ${prepared.collectionsAfter}.`;
+  $('previewText').textContent=`Perfil ${prepared.profileName}: ${prepared.currentTitle||'Nova coleção'} → ${prepared.targetTitle}: ${prepared.film}. ${prepared.otherCollectionsPreserved} outras coleções serão preservadas. Total: ${prepared.collectionsBefore} → ${prepared.collectionsAfter}.`;
   $('previewPanel').hidden=false; message('Prévia pronta.');
 }));
 $('apply').onclick=()=>busy(async()=>{

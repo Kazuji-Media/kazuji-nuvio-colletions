@@ -72,13 +72,24 @@ def main():
                     cookies = self.headers.get("Cookie", "").split("; ")
                     if f"prototype_session={session_cookie}" not in cookies:
                         return self.send(401, {"error": "Entre na conta para continuar."})
+                    if self.path == "/api/profiles":
+                        profiles = []
+                        for item in client.profiles():
+                            locked = bool(item.get("pin_enabled"))
+                            collections = [] if locked else client.pull(item["profile_index"])
+                            profiles.append({"index": item["profile_index"], "name": item["name"],
+                                             "locked": locked, "collections": None if locked else len(collections),
+                                             "titles": [c.get("title", "") for c in collections],
+                                             "usesPrimaryAddons": bool(item.get("uses_primary_addons"))})
+                        return self.send(200, {"profiles": profiles})
                     profile = body.get("profile", 1)
                     if type(profile) is not int or profile not in range(1, 7):
                         raise PrototypeError("Perfil inválido; use 1 a 6.")
                     if self.path == "/api/state":
+                        info = publisher.profile_info(profile)
                         collections = client.pull(profile)
                         managed = next((c for c in collections if c.get("id") == COLLECTION_ID), None)
-                        return self.send(200, {"profile": profile, "collections": len(collections),
+                        return self.send(200, {"profile": profile, "profileName": info["name"], "collections": len(collections),
                                                "collectionA": managed, "collectionId": COLLECTION_ID})
                     if self.path == "/api/preview":
                         return self.send(200, publisher.preview(profile, body.get("version")))

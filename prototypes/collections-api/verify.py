@@ -4,7 +4,6 @@ import copy
 import json
 import tempfile
 import unittest
-from unittest.mock import patch
 
 from client import (ADDON_ID, COLLECTION_ID, FILMS, MANIFEST_URL, NuvioClient,
                     PrototypeError, Publisher, collection_for, fingerprint,
@@ -20,6 +19,12 @@ class FakeNuvio:
                             "name": "Existing", "enabled": False, "sort_order": 0}]
         self.collection_writes = 0
         self.addon_writes = 0
+        self.last_addon_profile = None
+
+    def profiles(self):
+        return [{"profile_index": 1, "name": "Principal", "pin_enabled": False},
+                {"profile_index": 2, "name": "Compartilhado", "uses_primary_addons": True},
+                {"profile_index": 3, "name": "Protegido", "pin_enabled": True}]
 
     def pull(self, profile):
         return copy.deepcopy(self.collections)
@@ -33,6 +38,7 @@ class FakeNuvio:
 
     def push_addons(self, profile, addons):
         self.addon_writes += 1
+        self.last_addon_profile = profile
         self.addon_rows = copy.deepcopy(addons)
 
 
@@ -69,6 +75,19 @@ class PrototypeChecks(unittest.TestCase):
                 publisher.apply(1, "v1", preview["expectedFingerprint"])
             self.assertEqual(fake.addon_writes, 0)
             self.assertEqual(fake.collection_writes, 0)
+
+    def test_profiles_use_names_reject_missing_or_locked_and_resolve_shared_addons(self):
+        fake = FakeNuvio()
+        with tempfile.TemporaryDirectory() as private:
+            publisher = Publisher(fake, private)
+            publisher.preflight_catalog = lambda version: None
+            for profile in (3, 6):
+                with self.assertRaises(PrototypeError):
+                    publisher.preview(profile, "v1")
+            preview = publisher.preview(2, "v1")
+            self.assertEqual(preview["profileName"], "Compartilhado")
+            publisher.apply(2, "v1", preview["expectedFingerprint"])
+            self.assertEqual(fake.last_addon_profile, 1)
 
     def test_change_after_backup_blocks_collection_write(self):
         fake = FakeNuvio()

@@ -109,19 +109,19 @@ class NuvioClient:
         self._set_session(self._http("/auth/v1/token?grant_type=refresh_token",
                                      {"refresh_token": self.refresh_token}, False))
 
-    def request(self, path, body=None):
+    def request(self, path, body=None, method=None):
         if not self.access_token:
             raise PrototypeError("Entre na conta Nuvio para continuar.")
         try:
             if time.time() >= self.expires_at - 30:
                 self.refresh()
             try:
-                return self._http(path, body)
+                return self._http(path, body, method=method)
             except urllib.error.HTTPError as error:
                 if error.code != 401:
                     raise
                 self.refresh()
-                return self._http(path, body)
+                return self._http(path, body, method=method)
         except urllib.error.HTTPError as error:
             # No bodies, URLs, session tokens or account details in UI/logs.
             raise PrototypeError(f"A API Nuvio respondeu HTTP {error.code}. Releia o estado antes de tentar novamente.") from None
@@ -147,18 +147,33 @@ class NuvioClient:
     def push_addons(self, profile, addons):
         self.request("/rest/v1/rpc/sync_push_addons", {"p_profile_id": profile, "p_addons": addons})
 
+    def profiles(self):
+        rows = self.request("/rest/v1/rpc/sync_pull_profiles", method="POST")
+        if not isinstance(rows, list) or any(not isinstance(p, dict) or p.get("profile_index") not in range(1, 7) for p in rows):
+            raise PrototypeError("Resposta de perfis inválida.")
+        return rows
+
 
 class Publisher:
     def __init__(self, client, private_dir):
         self.client = client
         self.private_dir = Path(private_dir)
 
+    def profile_info(self, profile):
+        matches = [p for p in self.client.profiles() if p["profile_index"] == profile]
+        if len(matches) != 1:
+            raise PrototypeError("Selecione um perfil existente na conta.")
+        if matches[0].get("pin_enabled"):
+            raise PrototypeError("Perfil protegido por PIN. Use o fluxo normal do Nuvio para esse perfil.")
+        return matches[0]
+
     def preview(self, profile, version):
+        info = self.profile_info(profile)
         before = self.client.pull(profile)
         target = collection_for(version)
         after = merge_collection(before, target)
         current = next((c for c in before if c.get("id") == COLLECTION_ID), None)
-        return {"profile": profile, "version": version, "film": FILMS[version][1],
+        return {"profile": profile, "profileName": info["name"], "version": version, "film": FILMS[version][1],
                 "collectionId": COLLECTION_ID, "currentTitle": current.get("title") if current else None,
                 "targetTitle": target["title"], "collectionsBefore": len(before),
                 "collectionsAfter": len(after), "otherCollectionsPreserved": len(before) - bool(current),
@@ -175,13 +190,15 @@ class Publisher:
             raise PrototypeError("O catálogo público não corresponde à versão solicitada.")
 
     def apply(self, profile, version, expected_fingerprint):
+        info = self.profile_info(profile)
+        addon_profile = 1 if info.get("uses_primary_addons") else profile
         target = collection_for(version)
         self.preflight_catalog(version)
         before = self.client.pull(profile)
         if fingerprint(before) != expected_fingerprint:
             raise PrototypeError("As coleções mudaram desde a prévia. Gere uma nova prévia.")
         after = merge_collection(before, target)
-        addon_rows = self.client.addons(profile)
+        addon_rows = self.client.addons(addon_profile)
         addons_before = addon_payload(addon_rows)
         addons_after = copy.deepcopy(addons_before)
         existing = next((a for a in addons_after if a["url"] == MANIFEST_URL), None)
@@ -194,13 +211,13 @@ class Publisher:
         self.private_dir.mkdir(parents=True, exist_ok=True)
         stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S.%fZ")
         backup = self.private_dir / f"before-profile-{profile}-{version}-{stamp}.json"
-        backup.write_text(json.dumps({"profile": profile, "collections": before,
+        backup.write_text(json.dumps({"profile": profile, "addonProfile": addon_profile, "collections": before,
                                      "addons": addon_rows}, ensure_ascii=False, indent=2), "utf-8")
         if addons_before != addons_after:
-            if addon_payload(self.client.addons(profile)) != addons_before:
+            if addon_payload(self.client.addons(addon_profile)) != addons_before:
                 raise PrototypeError("Os addons mudaram durante a operação. Gere uma nova prévia.")
-            self.client.push_addons(profile, addons_after)
-            actual_addons = addon_payload(self.client.addons(profile))
+            self.client.push_addons(addon_profile, addons_after)
+            actual_addons = addon_payload(self.client.addons(addon_profile))
             if actual_addons != addons_after:
                 raise PrototypeError("Não foi possível confirmar os addons; a coleção não foi gravada.")
         if self.client.pull(profile) != before:

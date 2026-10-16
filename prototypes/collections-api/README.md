@@ -17,16 +17,17 @@ Python 3.10+; sem bibliotecas externas. Na raiz do checkout:
 python prototypes/collections-api/serve.py
 ```
 
-Abra http://127.0.0.1:8766. Entre com email/senha Nuvio. Selecione o perfil correto (padrão 1), prepare v1 e aplique. Depois repita para v2. Os botões fazem chamadas reais à conta; não é uma simulação. O cliente instalado pode precisar de sincronização/reabertura para refletir a mudança.
+Abra http://127.0.0.1:8766. Entre com email/senha Nuvio. O programa lista somente os perfis reais, pelo nome, quantidade e títulos das coleções. Se houver um único perfil acessível, ele é selecionado automaticamente. Selecione o perfil correto, prepare v1 e aplique. Depois repita para v2. Os botões fazem chamadas reais à conta; não é uma simulação. O cliente instalado pode precisar de sincronização/reabertura para refletir a mudança.
 
 A senha é encaminhada à API oficial e descartada após o login. Access/refresh tokens ficam somente na memória do processo. Fechar o servidor descarta a sessão local; nenhuma sessão é salva em arquivos. A renovação usa a validade recebida da API. O programa escuta apenas em 127.0.0.1 e exige origem local, token CSRF e cookie de sessão para operações autenticadas. Não hospedar esse servidor na internet.
 
 ## Chamadas implementadas
 
 - Login e renovação: `/auth/v1/token?grant_type=password` e `grant_type=refresh_token`.
+- Perfis reais: `sync_pull_profiles`, usando `profile_index` e `name`. Perfis com PIN ficam indisponíveis neste protótipo; não há implementação de desbloqueio.
 - Leitura: `sync_pull_collections` por `p_profile_id`.
 - Gravação: `sync_push_collections`, com o array completo após incorporar apenas a coleção A.
-- Leitura dos addons e `sync_push_addons`: instala o addon do protótipo uma vez, mantendo URLs, nomes, estados e ordem dos demais.
+- Leitura dos addons e `sync_push_addons`: instala o addon do protótipo uma vez, mantendo URLs, nomes, estados e ordem dos demais. Se o perfil compartilha addons do principal, a instalação usa o perfil 1; a coleção continua no perfil selecionado.
 
 O addon está em uma URL Raw da branch `prototype/collections-api`, no mesmo repositório Kazuji. A instalação só é tentada depois que manifest e catálogo públicos correspondem aos IDs esperados. Esta branch é necessária enquanto o addon estiver instalado.
 
@@ -40,7 +41,7 @@ Não há transação/compare-and-swap documentada entre essas RPCs: ainda existe
 python prototypes/collections-api/verify.py
 ```
 
-Verificações offline cobrem o ciclo v1 → v2 → v1, preservação de campos desconhecidos e demais coleções, instalação única do addon, aplicação idempotente, prévia desatualizada, alteração concorrente detectável, contrato das chamadas e correspondência dos filmes/catálogos. A comprovação na conta e nos aplicativos deve ser registrada separadamente; o teste offline não a substitui.
+As sete verificações offline passaram em 16/10/2026. Cobrem o ciclo v1 → v2 → v1, preservação de campos desconhecidos e demais coleções, instalação única do addon, aplicação idempotente, prévia desatualizada, alteração concorrente detectável, perfis reais/protegidos e addons compartilhados, contrato das chamadas e correspondência dos filmes/catálogos. Os cinco arquivos públicos do addon responderam HTTP 200 e CORS `*`. A comprovação na conta e nos aplicativos deve ser registrada separadamente; o teste offline não a substitui.
 
 ## Fontes
 
