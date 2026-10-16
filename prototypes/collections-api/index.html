@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="pt-BR">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Protótipo · Collection A</title>
+<style>
+:root {color-scheme:dark;font-family:system-ui,sans-serif;background:#10141b;color:#edf0f5}
+body {max-width:880px;margin:48px auto;padding:0 24px;line-height:1.6}
+h1 {font-size:2.1rem;line-height:1.2;margin:8px 0 16px} h2 {font-size:1.15rem}
+small,.muted {color:#aeb8c9} .tag {color:#8ebcff;font-size:.8rem;letter-spacing:.1em}
+section {border:1px solid #303a4b;border-radius:14px;padding:24px;margin:22px 0;background:#171e29}
+.grid {display:grid;grid-template-columns:1fr 1fr;gap:16px}
+label {display:block;margin:12px 0} input,select {box-sizing:border-box;width:100%;padding:11px;background:#10141b;border:1px solid #45526a;border-radius:6px;color:inherit;font:inherit}
+button {font:inherit;border:0;border-radius:6px;padding:10px 16px;background:#8ebcff;color:#0a1421;cursor:pointer;margin:8px 6px 0 0}
+button.secondary {background:#303d51;color:#edf0f5} button:disabled {opacity:.45;cursor:wait}
+pre {white-space:pre-wrap;overflow-wrap:anywhere;background:#10141b;padding:16px;border-radius:8px;font-size:.85rem}
+#message {min-height:1.6em;padding:8px 0} [hidden] {display:none!important} .error {color:#ffb8ae} .ok {color:#a8e3b5}
+@media(max-width:640px){.grid{grid-template-columns:1fr}body{margin-top:24px}}
+</style>
+<p class="tag">KAZUJI / PROTÓTIPO DESCARTÁVEL</p>
+<h1>Uma coleção, duas versões.</h1>
+<p>Esta prova verifica se a API do Nuvio permite criar a coleção A, trocar seu filme e voltar à versão anterior, preservando as demais coleções do perfil.</p>
+<section id="loginPanel">
+<h2>1. Entrar na conta Nuvio</h2>
+<p class="muted">O programa local encaminha o login à API oficial. Senha e sessão não são gravadas em arquivos. Fechar o programa encerra a sessão local.</p>
+<form id="loginForm">
+<label>Email <input id="email" name="email" type="email" autocomplete="username" required></label>
+<label>Senha <input id="password" name="password" type="password" autocomplete="current-password" required></label>
+<button>Entrar no Nuvio</button>
+</form>
+</section>
+<section id="controls" hidden>
+<h2>2. Conferir o estado atual</h2>
+<label>Perfil <select id="profile"><option value="1">Perfil 1</option><option value="2">Perfil 2</option><option value="3">Perfil 3</option><option value="4">Perfil 4</option><option value="5">Perfil 5</option><option value="6">Perfil 6</option></select></label>
+<button class="secondary" id="read">Reler coleções</button>
+<p id="state">Conta conectada.</p>
+<div class="grid">
+<section><h2>A - v1</h2><p>Madrugada dos Mortos<br><small>2004 · tt0363547</small></p><button data-preview="v1">Preparar v1</button></section>
+<section><h2>A - v2</h2><p>O Rei Leão<br><small>1994 · tt0110357</small></p><button data-preview="v2">Preparar v2</button></section>
+</div>
+<div id="previewPanel" hidden><h2>3. Aplicar a versão</h2><p id="previewText"></p><button id="apply">Aplicar versão preparada</button></div>
+<details><summary>Estado da coleção A</summary><pre id="jsonState">Ainda não lido.</pre></details>
+</section>
+<p id="message" role="status" aria-live="polite"></p>
+<section><h2>Como conferir a troca</h2>
+<ol><li>Prepare e aplique v1. Abra A - v1 no Nuvio e confira Madrugada dos Mortos.</li><li>Prepare e aplique v2. Após sincronizar o app, a mesma coleção vira A - v2, com O Rei Leão.</li><li>Aplique v1 novamente para conferir a reversão.</li></ol>
+<p class="muted">Cada aplicação salva um backup local e confirma a resposta por uma nova leitura da API. O addon do protótipo é instalado na primeira aplicação. O tempo de sincronização depende do aplicativo.</p></section>
+<script>
+const csrf = '__CSRF_TOKEN__';
+const $ = id => document.getElementById(id);
+let prepared = null;
+function invalidate() { prepared = null; $('previewPanel').hidden = true; }
+function message(text, error=false) { $('message').textContent=text; $('message').className=error?'error':'ok'; }
+async function api(path, payload={}) {
+  const response = await fetch('/api/'+path,{method:'POST',headers:{'Content-Type':'application/json','X-Prototype-CSRF':csrf},body:JSON.stringify({profile:Number($('profile').value),...payload})});
+  const result=await response.json(); if(!response.ok)throw new Error(result.error||'Falha na chamada.'); return result;
+}
+async function readState() {
+  invalidate();
+  const result=await api('state');
+  $('state').textContent=`Perfil ${result.profile}: ${result.collections} coleções. ${result.collectionA? 'Coleção A atual: '+result.collectionA.title+'.':'A ainda não foi criada.'}`;
+  $('jsonState').textContent=JSON.stringify(result.collectionA,null,2);
+}
+async function busy(action) {
+  document.querySelectorAll('button,select,input').forEach(e=>e.disabled=true);
+  message('Consultando a API…');
+  try {await action();} catch(e) {invalidate();message(e.message,true);}
+  finally {document.querySelectorAll('button,select,input').forEach(e=>e.disabled=false);}
+}
+$('loginForm').onsubmit=e=>{e.preventDefault();busy(async()=>{
+  const password=$('password').value; $('password').value='';
+  await api('login',{email:$('email').value,password});
+  $('email').value=''; $('loginPanel').hidden=true; $('controls').hidden=false;
+  await readState(); message('Conectado. Prepare uma versão para continuar.');
+});};
+$('read').onclick=()=>busy(async()=>{await readState();message('Estado confirmado pela API.');});
+$('profile').onchange=()=>busy(async()=>{await readState();message('Perfil selecionado.');});
+document.querySelectorAll('[data-preview]').forEach(button=>button.onclick=()=>busy(async()=>{
+  invalidate(); prepared=await api('preview',{version:button.dataset.preview});
+  $('previewText').textContent=`${prepared.currentTitle||'Nova coleção'} → ${prepared.targetTitle}: ${prepared.film}. ${prepared.otherCollectionsPreserved} outras coleções serão preservadas. Total: ${prepared.collectionsBefore} → ${prepared.collectionsAfter}.`;
+  $('previewPanel').hidden=false; message('Prévia pronta.');
+}));
+$('apply').onclick=()=>busy(async()=>{
+  const selected=prepared; invalidate();
+  const result=await api('apply',{version:selected.version,expectedFingerprint:selected.expectedFingerprint});
+  await readState();
+  message(`${result.title} aplicada e relida: ${result.film}. ${result.otherCollectionsPreserved} outras coleções preservadas. Backup: ${result.backup}`);
+});
+</script>
+</html>

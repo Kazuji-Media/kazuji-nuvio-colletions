@@ -1,0 +1,15 @@
+{
+  "id": "org.kazuji.prototype.collection.a",
+  "version": "0.1.0",
+  "name": "Kazuji · Protótipo A",
+  "description": "Prova de atualização de uma coleção pela API: Madrugada dos Mortos (2004) e O Rei Leão (1994).",
+  "types": ["movie"],
+  "resources": [
+    {"name": "catalog", "types": ["movie"]},
+    {"name": "meta", "types": ["movie"], "idPrefixes": ["tt0363547", "tt0110357"]}
+  ],
+  "catalogs": [
+    {"id": "a-v1", "type": "movie", "name": "Filme · v1", "extra": []},
+    {"id": "a-v2", "type": "movie", "name": "Filme · v2", "extra": []}
+  ]
+}

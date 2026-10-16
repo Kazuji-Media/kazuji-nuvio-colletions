@@ -1,0 +1,16 @@
+{
+  "id": "kazuji-prototype-collection-a",
+  "title": "A - v2",
+  "viewMode": "ROWS",
+  "showAllTab": false,
+  "pinToTop": false,
+  "folders": [
+    {
+      "id": "kazuji-prototype-a-film",
+      "title": "Filme",
+      "tileShape": "POSTER",
+      "coverImageUrl": "https://images.metahub.space/poster/small/tt0110357/img",
+      "sources": [{"provider": "addon", "addonId": "org.kazuji.prototype.collection.a", "type": "movie", "catalogId": "a-v2"}]
+    }
+  ]
+}
