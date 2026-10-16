@@ -21,6 +21,8 @@ Abra http://127.0.0.1:8766. Entre com email/senha Nuvio. O programa lista soment
 
 A senha é encaminhada à API oficial e descartada após o login. Access/refresh tokens ficam somente na memória do processo. Fechar o servidor descarta a sessão local; nenhuma sessão é salva em arquivos. A renovação usa a validade recebida da API. O programa escuta apenas em 127.0.0.1 e exige origem local, token CSRF e cookie de sessão para operações autenticadas. Não hospedar esse servidor na internet.
 
+Recarregar a página retoma a sessão enquanto o servidor estiver aberto. O navegador lembra somente o número do perfil selecionado; os tokens continuam na memória do servidor. Reiniciar o servidor exige novo login.
+
 ## Chamadas implementadas
 
 - Login e renovação: `/auth/v1/token?grant_type=password` e `grant_type=refresh_token`.
@@ -51,4 +53,8 @@ As sete verificações offline passaram em 16/10/2026. Cobrem o ciclo v1 → v2 
 - [O Rei Leão no TMDB](https://www.themoviedb.org/movie/8587-the-lion-king).
 - Metadados/IDs conferidos no Cinemeta: `https://v3-cinemeta.strem.io/meta/movie/tt0363547.json` e `tt0110357.json`.
 
-Estado inicial: implementação preparada; aplicação autenticada na conta ainda pendente.
+## Resultado da prova — 16/10/2026
+
+A aplicação autenticada criou A - v1 e depois atualizou o mesmo ID para A - v2. As duas operações foram confirmadas por releitura do array completo; as demais coleções permaneceram iguais. O catálogo público de v1 contém somente Madrugada dos Mortos e o de v2 somente O Rei Leão. O usuário informou validação manual. A conferência automatizada no aplicativo foi interrompida pelo usuário e encerrada; não se atribui a ela a validação visual.
+
+Última versão aplicada: **v2**. Voltar para v1 está disponível nos mesmos botões; a reversão foi coberta pelas verificações offline, mas não foi aplicada à conta após v2. Backups, registros de resultado e capturas da conta permanecem somente locais, fora do Git.

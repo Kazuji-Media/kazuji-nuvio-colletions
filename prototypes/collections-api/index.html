@@ -60,6 +60,8 @@ async function readState() {
   invalidate();
   if(!$('profile').value || $('profile').value==='0') { $('state').textContent='Selecione seu perfil pelo nome e pelas coleções abaixo.'; return; }
   const result=await api('state');
+  $('profile').selectedOptions[0].textContent=`${result.profileName} · perfil ${result.profile} · ${result.collections} coleções`;
+  sessionStorage.setItem('prototypeProfile',String(result.profile));
   $('state').textContent=`${result.profileName} (perfil ${result.profile}): ${result.collections} coleções. ${result.collectionA? 'Coleção A atual: '+result.collectionA.title+'.':'A ainda não foi criada.'}`;
   $('jsonState').textContent=JSON.stringify(result.collectionA,null,2);
 }
@@ -72,7 +74,9 @@ async function loadProfiles() {
   }
   $('profileHelp').textContent=result.profiles.map(p=>`${p.name} (${p.index}): ${p.locked?'protegido por PIN':p.titles.join(', ')||'sem coleções'}`).join(' | ');
   const available=result.profiles.filter(p=>!p.locked);
-  if(available.length===1) $('profile').value=String(available[0].index);
+  const previous=sessionStorage.getItem('prototypeProfile');
+  if(available.some(p=>String(p.index)===previous)) $('profile').value=previous;
+  else if(available.length===1) $('profile').value=String(available[0].index);
 }
 async function busy(action) {
   document.querySelectorAll('button,select,input').forEach(e=>e.disabled=true);
@@ -100,5 +104,13 @@ $('apply').onclick=()=>busy(async()=>{
   await readState();
   message(`${result.title} aplicada e relida: ${result.film}. ${result.otherCollectionsPreserved} outras coleções preservadas. Backup: ${result.backup}`);
 });
+// A page refresh can reuse the HttpOnly local cookie while the server is alive.
+// Tokens remain in server memory; only the selected profile number is remembered here.
+(async()=>{
+  try {
+    await loadProfiles(); $('loginPanel').hidden=true; $('controls').hidden=false;
+    await readState(); message('Sessão local retomada.');
+  } catch { /* No local session yet: leave the normal sign-in form visible. */ }
+})();
 </script>
 </html>
