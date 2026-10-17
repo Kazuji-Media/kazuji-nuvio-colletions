@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "collection-f3634f6f",
+  "collectionTitle": "Diretores",
+  "folders": [
+    {
+      "id": "folder-4c8017e4",
+      "title": "Christopher Nolan",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/christopher-nolan/portrait-bw.png?v=7599922f24a3",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/christopher-nolan/portrait-color.png?v=bd444bb213fd",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/christopher-nolan/landscape-color.png?v=6636e85dc24b"
+      }
+    },
+    {
+      "id": "folder-fe3a3f66",
+      "title": "Steven Spielberg",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/steven-spielberg/portrait-bw.png?v=89ad60d55bfb",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/steven-spielberg/portrait-color.png?v=60ef4dcb67c4",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/steven-spielberg/landscape-color.png?v=e4b7a131927b"
+      }
+    },
+    {
+      "id": "folder-29fe40f4",
+      "title": "Martin Scorsese",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-scorsese/portrait-bw.png?v=8aa50f30d26e",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-scorsese/portrait-color.png?v=91024cf2195d",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-scorsese/landscape-color.png?v=b50712aae946"
+      }
+    },
+    {
+      "id": "folder-ce8373de",
+      "title": "Quentin Tarantino",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/quentin-tarantino/portrait-bw.png?v=7037cdaaf363",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/quentin-tarantino/portrait-color.png?v=05a1ddab8f7c",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/quentin-tarantino/landscape-color.png?v=478824c68076"
+      }
+    },
+    {
+      "id": "folder-7fb628e4",
+      "title": "James Cameron",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/james-cameron/portrait-bw.png?v=734fd292c642",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/james-cameron/portrait-color.png?v=dfba7c564784",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/james-cameron/landscape-color.png?v=284a82a55110"
+      }
+    },
+    {
+      "id": "folder-5607b2bd",
+      "title": "Denis Villeneuve",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/denis-villeneuve/portrait-bw.png?v=45a4fc1c0818",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/denis-villeneuve/portrait-color.png?v=eac7518b5978",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/denis-villeneuve/landscape-color.png?v=5816d3cdc2f9"
+      }
+    },
+    {
+      "id": "folder-89ee9a54",
+      "title": "Greta Gerwig",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/greta-gerwig/portrait-bw.png?v=03b531ab62e1",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/greta-gerwig/portrait-color.png?v=6f8a45452aec",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/greta-gerwig/landscape-color.png?v=40a638832c7a"
+      }
+    },
+    {
+      "id": "folder-edd74487",
+      "title": "Hayao Miyazaki",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/hayao-miyazaki/portrait-bw.png?v=4ec3eed13886",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/hayao-miyazaki/portrait-color.png?v=f9596248a17c",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/hayao-miyazaki/landscape-color.png?v=f559e5301624"
+      }
+    },
+    {
+      "id": "folder-3ffb5ab2",
+      "title": "Bong Joon-ho",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/bong-joon-ho/portrait-bw.png?v=2d1be8b122f2",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/bong-joon-ho/portrait-color.png?v=2edfdb461298",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/bong-joon-ho/landscape-color.png?v=b5694b2f9374"
+      }
+    },
+    {
+      "id": "folder-f18a63bd",
+      "title": "Pedro Almodóvar",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/pedro-almodovar/portrait-bw.png?v=ef3575f03908",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/pedro-almodovar/portrait-color.png?v=854d90e82c12",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/pedro-almodovar/landscape-color.png?v=1876886962e2"
+      }
+    },
+    {
+      "id": "folder-4d0b0bc2",
+      "title": "Fernando Meirelles",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/fernando-meirelles/portrait-bw.png?v=990d113fc069",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/fernando-meirelles/portrait-color.png?v=e533ee65b88e",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/fernando-meirelles/landscape-color.png?v=9d42c36edd69"
+      }
+    },
+    {
+      "id": "folder-177e6633",
+      "title": "Kleber Mendonça Filho",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kleber-mendonca-filho/portrait-bw.png?v=5079711fd5b2",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kleber-mendonca-filho/portrait-color.png?v=881487878131",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kleber-mendonca-filho/landscape-color.png?v=de17b734885a"
+      }
+    },
+    {
+      "id": "b9f91d7e-8651-41da-8e20-56177052717d",
+      "title": "Paul Thomas Anderson",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/paul-thomas-anderson/portrait-bw.png?v=0884f3fcb0f2",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/paul-thomas-anderson/portrait-color.png?v=71f9729c833b",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/paul-thomas-anderson/landscape-color.png?v=d7d48a7b981c"
+      }
+    },
+    {
+      "id": "d20d0613-0230-4460-b583-d524502cace5",
+      "title": "Wes Anderson",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/wes-anderson/portrait-bw.png?v=154ead83b71c",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/wes-anderson/portrait-color.png?v=69767f2d81f6",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/wes-anderson/landscape-color.png?v=8985484513e1"
+      }
+    },
+    {
+      "id": "folder-44af5ab0",
+      "title": "Judd Apatow",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/judd-apatow/portrait-bw.png?v=a9ddaa51ed6d",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/judd-apatow/portrait-color.png?v=bda488e4d453",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/judd-apatow/landscape-color.png?v=de742c7bbc07"
+      }
+    },
+    {
+      "id": "folder-1aacff6d",
+      "title": "Kathryn Bigelow",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kathryn-bigelow/portrait-bw.png?v=9c6f80b31618",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kathryn-bigelow/portrait-color.png?v=7ed05b63ad0f",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kathryn-bigelow/landscape-color.png?v=0954a32f4d77"
+      }
+    },
+    {
+      "id": "4efbbe36-09bc-46e7-8703-81a031b2d10b",
+      "title": "Danny Boyle",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/danny-boyle/portrait-bw.png?v=f376368059c3",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/danny-boyle/portrait-color.png?v=344fb424e800",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/danny-boyle/landscape-color.png?v=3a0389fe44a7"
+      }
+    },
+    {
+      "id": "55723bb4-2335-4dc4-a510-8934bb75906c",
+      "title": "Tim Burton",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/tim-burton/portrait-bw.png?v=181885c9d83f",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/tim-burton/portrait-color.png?v=3d2000b4b4cc",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/tim-burton/landscape-color.png?v=bbc7eec57d53"
+      }
+    },
+    {
+      "id": "3df117e4-e42b-4898-9226-0e4ebaa075f7",
+      "title": "Coen Brothers",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/coen-brothers/portrait-bw.png?v=b28c800a50e1",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/coen-brothers/portrait-color.png?v=8230f3a2ef09",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/coen-brothers/landscape-color.png?v=4231529c9c25"
+      }
+    },
+    {
+      "id": "folder-cbbca417",
+      "title": "Francis Ford Coppola",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/francis-ford-coppola/portrait-bw.png?v=7cd448cf816c",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/francis-ford-coppola/portrait-color.png?v=8747e00db75e",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/francis-ford-coppola/landscape-color.png?v=dc15a42f50f7"
+      }
+    },
+    {
+      "id": "1816351d-936d-498e-811e-9334f1680b99",
+      "title": "Alfonso Cuarón",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/alfonso-cuaron/portrait-bw.png?v=2f43e7bf5c09",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/alfonso-cuaron/portrait-color.png?v=dc8f9c33fe16",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/alfonso-cuaron/landscape-color.png?v=42b1a79e0571"
+      }
+    },
+    {
+      "id": "folder-6799c7d8",
+      "title": "Clint Eastwood",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/clint-eastwood/portrait-bw.png?v=1a1bdb1c74e9",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/clint-eastwood/portrait-color.png?v=14a4d4d1c624",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/clint-eastwood/landscape-color.png?v=950ad06216c4"
+      }
+    },
+    {
+      "id": "7e5cdb30-e166-4a95-b67e-99c3702278ad",
+      "title": "David Fincher",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/david-fincher/portrait-bw.png?v=4148cc1c6c18",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/david-fincher/portrait-color.png?v=5ce4b576e72f",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/david-fincher/landscape-color.png?v=c16a0d68dcff"
+      }
+    },
+    {
+      "id": "fe1d5a0a-5075-4919-83c4-781a936085ec",
+      "title": "Ron Howard",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ron-howard/portrait-bw.png?v=f93adabdaf9d",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ron-howard/portrait-color.png?v=1dab2b5d6a4d",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ron-howard/landscape-color.png?v=03ec36c420fe"
+      }
+    },
+    {
+      "id": "cade12bf-d7fc-4a21-9262-3b96d9f37fe0",
+      "title": "Stanley Kubrick",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/stanley-kubrick/portrait-bw.png?v=b01f0a8995ad",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/stanley-kubrick/portrait-color.png?v=476a36dfa754",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/stanley-kubrick/landscape-color.png?v=7e9f26c73680"
+      }
+    },
+    {
+      "id": "folder-00970b61",
+      "title": "Akira Kurosawa",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/akira-kurosawa/portrait-bw.png?v=2a1929da5efa",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/akira-kurosawa/portrait-color.png?v=402b997982c3",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/akira-kurosawa/landscape-color.png?v=b8c8ef5e03b9"
+      }
+    },
+    {
+      "id": "folder-42dc0b6a",
+      "title": "Emir Kusturica",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/emir-kusturica/portrait-bw.png?v=6a4caf0560a2",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/emir-kusturica/portrait-color.png?v=595c35cb3d52",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/emir-kusturica/landscape-color.png?v=a5ff65ba5bcd"
+      }
+    },
+    {
+      "id": "folder-173be50e",
+      "title": "Ang Lee",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ang-lee/portrait-bw.png?v=d36242ecc7c2",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ang-lee/portrait-color.png?v=6373995c9ad0",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ang-lee/landscape-color.png?v=6e74ccaa0891"
+      }
+    },
+    {
+      "id": "folder-802052d4",
+      "title": "Chris Miller and Phil Lord",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chris-miller-and-phil-lord/portrait-bw.png?v=639ce742750b",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chris-miller-and-phil-lord/portrait-color.png?v=3e49b745779a",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chris-miller-and-phil-lord/landscape-color.png?v=ffc342543a9b"
+      }
+    },
+    {
+      "id": "folder-9d3ed743",
+      "title": "George Lucas",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/george-lucas/portrait-bw.png?v=0d8c00b38444",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/george-lucas/portrait-color.png?v=9cf74cc8800b",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/george-lucas/landscape-color.png?v=cf82e8c5da43"
+      }
+    },
+    {
+      "id": "folder-3b502954",
+      "title": "Martin McDonagh",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-mcdonagh/portrait-bw.png?v=ed74759ffd04",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-mcdonagh/portrait-color.png?v=aee1f8f27694",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-mcdonagh/landscape-color.png?v=9fc4f9e0b386"
+      }
+    },
+    {
+      "id": "folder-40cdc8d6",
+      "title": "Gus Van Sant",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/gus-van-sant/portrait-bw.png?v=898668087b04",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/gus-van-sant/portrait-color.png?v=cb0cb3dcb8b6",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/gus-van-sant/landscape-color.png?v=8557dd86ea90"
+      }
+    },
+    {
+      "id": "c40e3a32-0bef-411e-957a-5ca317cafd03",
+      "title": "Ridley Scott",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ridley-scott/portrait-bw.png?v=f2904ccbd623",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ridley-scott/portrait-color.png?v=7beebde818e3",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ridley-scott/landscape-color.png?v=56f7d9b65e5a"
+      }
+    },
+    {
+      "id": "d7b36d03-0f34-40bf-b9d1-32a226362987",
+      "title": "M. Night Shyamalan",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/m-night-shyamalan/portrait-bw.png?v=f0e608850808",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/m-night-shyamalan/portrait-color.png?v=6618d4a8ff12",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/m-night-shyamalan/landscape-color.png?v=2d37511cd473"
+      }
+    },
+    {
+      "id": "8b122e7c-5119-42d1-9e4e-a880c364ddd4",
+      "title": "Oliver Stone",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/oliver-stone/portrait-bw.png?v=8ab6e66cf726",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/oliver-stone/portrait-color.png?v=456fb0ae39e6",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/oliver-stone/landscape-color.png?v=6d6395122653"
+      }
+    },
+    {
+      "id": "folder-20cf5f45",
+      "title": "Guillermo del Toro",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/guillermo-del-toro/portrait-bw.png?v=842ead995485",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/guillermo-del-toro/portrait-color.png?v=f6f185933b7c",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/guillermo-del-toro/landscape-color.png?v=d3f06d944400"
+      }
+    },
+    {
+      "id": "folder-266a505c",
+      "title": "Jean-Marc Vallée",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/jean-marc-vallee/portrait-bw.png?v=9f38aff53a29",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/jean-marc-vallee/portrait-color.png?v=0b4dabe85efb",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/jean-marc-vallee/landscape-color.png?v=2cc79218ea49"
+      }
+    },
+    {
+      "id": "folder-f53e663d",
+      "title": "Chloé Zhao",
+      "set": {
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chloe-zhao/portrait-bw.png?v=40d84115b052",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chloe-zhao/portrait-color.png?v=38fe8f25b341",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chloe-zhao/landscape-color.png?v=f0d3600ddef5"
+      }
+    }
+  ]
+}

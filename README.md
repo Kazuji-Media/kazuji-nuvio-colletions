@@ -2,6 +2,11 @@
 
 Capas, emblemas e referências de fontes para as coleções do Nuvio. O repositório é público e os arquivos podem ser usados diretamente por URL do GitHub Raw.
 
+## Diretores
+
+38 diretores com portrait colorido, portrait P&B e landscape transparente em resolução nativa.
+Veja a [documentação das artes e integração](docs/diretores-artwork.md), o [manifesto com fontes e créditos](assets/covers/diretores/revisao-2026-10-17/manifest.json) e o [mapeamento dos campos no Nuvio](collections/diretores-artwork.json).
+
 ## Capas
 
 As versões abaixo usam texto em português do Brasil e gradientes animados em SVG. São novas variações vetoriais inspiradas nas capas da comunidade; não alteram nem redistribuem os GIFs de terceiros.

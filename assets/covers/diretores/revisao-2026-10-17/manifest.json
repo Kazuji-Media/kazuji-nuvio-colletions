@@ -1,0 +1,1807 @@
+{
+  "version": "2026-10-17",
+  "formats": [
+    "portrait-color",
+    "portrait-bw",
+    "landscape-color"
+  ],
+  "directors": [
+    {
+      "slug": "christopher-nolan",
+      "name": "Christopher Nolan",
+      "folderId": "folder-4c8017e4",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/525-christopher-nolan/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "62f55a421de110ed60df63d1f95e96c56387eadb7df153372d1d707f3eb7cbf5"
+      },
+      "sourceMasterSha256": "78ddece991ddeb60e182d08b92f0a89e7fd25ff5b4244cc2eb343bdb8cfcf5bc",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/christopher-nolan/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/christopher-nolan/portrait-color.png?v=bd444bb213fd",
+          "width": 974,
+          "height": 1461,
+          "bits": 8,
+          "sha256": "bd444bb213fd1291c300f5a1541081454904b4f75b7ef5be7fb2cbd1d887a42f",
+          "bytes": 1547608
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/christopher-nolan/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/christopher-nolan/portrait-bw.png?v=7599922f24a3",
+          "width": 974,
+          "height": 1461,
+          "bits": 8,
+          "sha256": "7599922f24a390bae5b1515387970d30b255e2a31aca244cf83e09f037dc2532",
+          "bytes": 907042
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/christopher-nolan/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/christopher-nolan/landscape-color.png?v=6636e85dc24b",
+          "width": 3024,
+          "height": 1701,
+          "bits": 8,
+          "sha256": "6636e85dc24bb448f486e424373cad75b3329d9e688e622f47ccdbbf97c1e7f6",
+          "bytes": 2008340
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Christopher Nolan. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "steven-spielberg",
+      "name": "Steven Spielberg",
+      "folderId": "folder-fe3a3f66",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/488-steven-spielberg/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "c2b7961b3c1fc076b297246f0444218a6e8eee44f51d5de3c2add0879c6dcc5f"
+      },
+      "sourceMasterSha256": "c398deaf30dde525f3d325a3d62660b8b4d05871aa491c8443169b69c9340208",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/steven-spielberg/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/steven-spielberg/portrait-color.png?v=60ef4dcb67c4",
+          "width": 554,
+          "height": 831,
+          "bits": 8,
+          "sha256": "60ef4dcb67c45eebeda463e18879cf62ae27c0d79582ad2ff29ca55d6666e606",
+          "bytes": 730197
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/steven-spielberg/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/steven-spielberg/portrait-bw.png?v=89ad60d55bfb",
+          "width": 554,
+          "height": 831,
+          "bits": 8,
+          "sha256": "89ad60d55bfb7462557ebaa5a9f1d220a3e54503e873502d3a0cb5230bd537fa",
+          "bytes": 396581
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/steven-spielberg/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/steven-spielberg/landscape-color.png?v=e4b7a131927b",
+          "width": 1488,
+          "height": 837,
+          "bits": 8,
+          "sha256": "e4b7a131927bbb52b92fe97a91c18698e26200ac340e6b6763e21b036614aa1a",
+          "bytes": 966401
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Steven Spielberg. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "martin-scorsese",
+      "name": "Martin Scorsese",
+      "folderId": "folder-29fe40f4",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/1032-martin-scorsese/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "f37e5ac10aed8b138b3e43f478858514d05de75a09032bd342845c1240b715dd"
+      },
+      "sourceMasterSha256": "9295e84d805d20fb9fad0fdbd4c8d22a4eecb46c6baf461c599ccd2dc21e0e14",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/martin-scorsese/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-scorsese/portrait-color.png?v=91024cf2195d",
+          "width": 932,
+          "height": 1398,
+          "bits": 8,
+          "sha256": "91024cf2195d64255df799b28dd67f51e48098d10f4cc4331e5d3656e1422e4c",
+          "bytes": 1613001
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/martin-scorsese/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-scorsese/portrait-bw.png?v=8aa50f30d26e",
+          "width": 932,
+          "height": 1398,
+          "bits": 8,
+          "sha256": "8aa50f30d26ef4e0fb671770d365edaec1a904e0179021a1b4c889363bf9a13c",
+          "bytes": 892411
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/martin-scorsese/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-scorsese/landscape-color.png?v=b50712aae946",
+          "width": 3472,
+          "height": 1953,
+          "bits": 8,
+          "sha256": "b50712aae94634d4f55e6b83d06057e9d27d7bac30021b6a5929f6ccac80b53b",
+          "bytes": 2306872
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Martin Scorsese. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "quentin-tarantino",
+      "name": "Quentin Tarantino",
+      "folderId": "folder-ce8373de",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/138-quentin-tarantino/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "75f5ff2638a78be4f7f84f1109e9c4315a961251d40f4b19fed401995f8fc501"
+      },
+      "sourceMasterSha256": "85b01678cef7e44d109ff55533bd73b4a930560032ae848b0af5c23e98f54e9b",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/quentin-tarantino/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/quentin-tarantino/portrait-color.png?v=05a1ddab8f7c",
+          "width": 792,
+          "height": 1188,
+          "bits": 8,
+          "sha256": "05a1ddab8f7c36f1c3103929950e03c80ad0da330e8118e4c1133cc1b0dc2d16",
+          "bytes": 917715
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/quentin-tarantino/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/quentin-tarantino/portrait-bw.png?v=7037cdaaf363",
+          "width": 792,
+          "height": 1188,
+          "bits": 8,
+          "sha256": "7037cdaaf3631b113dc5f9427aee888d56ecf0424c7d59821bf5b016fec4540e",
+          "bytes": 533874
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/quentin-tarantino/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/quentin-tarantino/landscape-color.png?v=478824c68076",
+          "width": 2320,
+          "height": 1305,
+          "bits": 8,
+          "sha256": "478824c6807687897611f56964e44a07eaf8d0d494d2132b60c872d8242d7a72",
+          "bytes": 1230264
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Quentin Tarantino. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "james-cameron",
+      "name": "James Cameron",
+      "folderId": "folder-7fb628e4",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/2710-james-cameron/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "c3b06f3d045d83507ad61d52c6d7f076b0068b7f9dbc465db41f2d9a6494abd6"
+      },
+      "sourceMasterSha256": "bbb55f8d8d72442035df786a9cd659c3a68786ec8d77eda890949dd715167dbd",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/james-cameron/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/james-cameron/portrait-color.png?v=dfba7c564784",
+          "width": 614,
+          "height": 921,
+          "bits": 8,
+          "sha256": "dfba7c564784aa8f70d61c2bdf359acdd2371f23dbdea306ebc17caa2ce0938b",
+          "bytes": 555717
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/james-cameron/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/james-cameron/portrait-bw.png?v=734fd292c642",
+          "width": 614,
+          "height": 921,
+          "bits": 8,
+          "sha256": "734fd292c642575d6af668f655faa9d19b6749ff4aa38d3b459adfef592bf1e1",
+          "bytes": 306004
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/james-cameron/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/james-cameron/landscape-color.png?v=284a82a55110",
+          "width": 1648,
+          "height": 927,
+          "bits": 8,
+          "sha256": "284a82a5511074a298f563df6333750358a27d7973faa8b132241be2174f017c",
+          "bytes": 691440
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: James Cameron. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "denis-villeneuve",
+      "name": "Denis Villeneuve",
+      "folderId": "folder-5607b2bd",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/7097-denis-villeneuve/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/xzQYqb4nR8xT7Zdw5itbEL9K3fd.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "944fdd09e9a01dc6d4849ab5d60019194bb8f5e3493268ae92cd87af280266a2"
+      },
+      "sourceMasterSha256": "a806984ef54d2a5b83f17b2952495d77d6086d7bdb2f25c4462368100547cd79",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/denis-villeneuve/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/denis-villeneuve/portrait-color.png?v=eac7518b5978",
+          "width": 634,
+          "height": 951,
+          "bits": 8,
+          "sha256": "eac7518b5978267942198145e559b2022aab77e0ba169c28538205fa92e4184e",
+          "bytes": 644895
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/denis-villeneuve/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/denis-villeneuve/portrait-bw.png?v=45a4fc1c0818",
+          "width": 634,
+          "height": 951,
+          "bits": 8,
+          "sha256": "45a4fc1c081862ff0d925f66659e9f35340b9a3db5f53612b7f9add525f2fe37",
+          "bytes": 379228
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/denis-villeneuve/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/denis-villeneuve/landscape-color.png?v=5816d3cdc2f9",
+          "width": 1728,
+          "height": 972,
+          "bits": 8,
+          "sha256": "5816d3cdc2f97d2ac583e74b133eacfadcae5ef744a1d96120bcd32fb861320b",
+          "bytes": 793180
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Denis Villeneuve. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "greta-gerwig",
+      "name": "Greta Gerwig",
+      "folderId": "folder-89ee9a54",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/45400-greta-gerwig/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/dxKAhpkz4XNwmRzMG5QOpXjPZ1N.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "0720c85d623282eb3c540bdec0280ef0f2d472c4546ec1d242226c3c0424baa3"
+      },
+      "sourceMasterSha256": "2cb53391725b12697cec644422afebdce0e389d9d1ff5c1271701f1f012a02bf",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/greta-gerwig/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/greta-gerwig/portrait-color.png?v=6f8a45452aec",
+          "width": 1656,
+          "height": 2484,
+          "bits": 8,
+          "sha256": "6f8a45452aec11814b7f30d11782813866f4e8248b7ee43f65ae03b45ba41891",
+          "bytes": 4836687
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/greta-gerwig/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/greta-gerwig/portrait-bw.png?v=03b531ab62e1",
+          "width": 1656,
+          "height": 2484,
+          "bits": 8,
+          "sha256": "03b531ab62e10a839fe1a2be80e7cfdc04ee1af83fb8f66e5115c14fad4029a4",
+          "bytes": 2884931
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/greta-gerwig/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/greta-gerwig/landscape-color.png?v=40a638832c7a",
+          "width": 4416,
+          "height": 2484,
+          "bits": 8,
+          "sha256": "40a638832c7afde270a5c92b48953acf770181ebe89b48f1d49b9dc88653b87d",
+          "bytes": 5958278
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Greta Gerwig. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "hayao-miyazaki",
+      "name": "Hayao Miyazaki",
+      "folderId": "folder-edd74487",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/608-hayao-miyazaki/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/ouhjt9KugzhWtdEyBPipihB3ic8.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "a2eced8bda41f709eff61710c3fbe3dbaf1b2d4f13d114695adf664b0a650436"
+      },
+      "sourceMasterSha256": "bedd50fcbaad7b2906adb06360fd4d8eada829776b3986fa869d75a3cf6cd2a1",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/hayao-miyazaki/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/hayao-miyazaki/portrait-color.png?v=f9596248a17c",
+          "width": 950,
+          "height": 1425,
+          "bits": 8,
+          "sha256": "f9596248a17ce9244f98ee5467e161b1cb1a0d80977dc00ee6ce331c07df7de5",
+          "bytes": 1764098
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/hayao-miyazaki/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/hayao-miyazaki/portrait-bw.png?v=4ec3eed13886",
+          "width": 950,
+          "height": 1425,
+          "bits": 8,
+          "sha256": "4ec3eed138869e89bcdd0fb83f1bc8d4aa406a7af94e862ec17a05c52ac683bf",
+          "bytes": 1004405
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/hayao-miyazaki/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/hayao-miyazaki/landscape-color.png?v=f559e5301624",
+          "width": 2544,
+          "height": 1431,
+          "bits": 8,
+          "sha256": "f559e5301624e8f1e2fc4904bddfbc94b1c384966bfb1d04d4ac341565a0c353",
+          "bytes": 2237648
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Hayao Miyazaki. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "bong-joon-ho",
+      "name": "Bong Joon-ho",
+      "folderId": "folder-3ffb5ab2",
+      "photoOption": 0,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Original limpo: complemento da proposta ainda precisava de refinamento.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/21684-bong-joon-ho/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "e9018d51f8c08de8b4669629c07e15a429167953213d5d4fe6f45656eb49f5b0"
+      },
+      "sourceMasterSha256": "e43be1bf1f1bb76453b68ad5af50684d2725a1919e8ba58e885d3ce3457f02a5",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/bong-joon-ho/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/bong-joon-ho/portrait-color.png?v=2edfdb461298",
+          "width": 964,
+          "height": 1446,
+          "bits": 8,
+          "sha256": "2edfdb46129893e198cc1601ab26ab23a5e767f16d18900434930ecac4985120",
+          "bytes": 1659888
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/bong-joon-ho/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/bong-joon-ho/portrait-bw.png?v=2d1be8b122f2",
+          "width": 964,
+          "height": 1446,
+          "bits": 8,
+          "sha256": "2d1be8b122f23f2e053270fc46e90d4cffe9bee5a0692e6bd85d03aa15b4ce6e",
+          "bytes": 1094569
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/bong-joon-ho/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/bong-joon-ho/landscape-color.png?v=b5694b2f9374",
+          "width": 2576,
+          "height": 1449,
+          "bits": 8,
+          "sha256": "b5694b2f937499b1cf64472beb8e7cc9bf86675ca657120c5e6650318ea6f350",
+          "bytes": 1814177
+        }
+      }
+    },
+    {
+      "slug": "pedro-almodovar",
+      "name": "Pedro Almodóvar",
+      "folderId": "folder-f18a63bd",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/309-pedro-almodovar/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "31c099e42c41855c2ea177dc6d375af5003ffc3a806a460b20c79bc919a51812"
+      },
+      "sourceMasterSha256": "eb8bf617516c35bafa235e943da95c644654f1bc2a44b2c71e0a7ec3339b46de",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/pedro-almodovar/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/pedro-almodovar/portrait-color.png?v=854d90e82c12",
+          "width": 1044,
+          "height": 1566,
+          "bits": 8,
+          "sha256": "854d90e82c12e7d048b94d4b610c0810ec68cc5974e6fabf0294e4ef4bcf6f2a",
+          "bytes": 2247372
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/pedro-almodovar/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/pedro-almodovar/portrait-bw.png?v=ef3575f03908",
+          "width": 1044,
+          "height": 1566,
+          "bits": 8,
+          "sha256": "ef3575f03908cc0f7e5fa17b7bb9e0534d37428d7bc55e759dc7c50cacde72be",
+          "bytes": 1257449
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/pedro-almodovar/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/pedro-almodovar/landscape-color.png?v=1876886962e2",
+          "width": 2784,
+          "height": 1566,
+          "bits": 8,
+          "sha256": "1876886962e2160dea7a581fded1382703c8d65e89b95c629128e8423d0a819b",
+          "bytes": 2749552
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Pedro Almodóvar. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "fernando-meirelles",
+      "name": "Fernando Meirelles",
+      "folderId": "folder-4d0b0bc2",
+      "photoOption": 0,
+      "variant": "manter",
+      "syntheticClothing": false,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.latercera.com/culto/2024/05/11/fernando-meirelles-robert-downey-jr-es-incapaz-de-hacer-la-misma-escena-de-la-misma-manera-dos-veces/",
+        "photoUrl": "https://www.latercera.com/resizer/v2/5WFKKCKFWNDX7FXFBBBS36ES3U.jpg?auth=4c1ff21b214a5f7c41f6dad3851e67e2a00feb53ec381c5faaacffc56fbb478c&height=1485&quality=70&smart=true&width=990",
+        "credit": "Renato Nascimento",
+        "license": "Editorial; sem licença aberta declarada",
+        "sha256": "81529c384314b97f2cb78d4f3f503d42f88d7834d5ba0f136003e425841ce6e0"
+      },
+      "sourceMasterSha256": "e5e6d79ab3b4dca88119502ec424f34781f782edc401393fab32dfa95b75d98e",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/fernando-meirelles/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/fernando-meirelles/portrait-color.png?v=e533ee65b88e",
+          "width": 470,
+          "height": 705,
+          "bits": 8,
+          "sha256": "e533ee65b88edd4cbfb715c0188b8c6b25c233874c5c63e218b7d67858a20972",
+          "bytes": 341721
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/fernando-meirelles/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/fernando-meirelles/portrait-bw.png?v=990d113fc069",
+          "width": 470,
+          "height": 705,
+          "bits": 8,
+          "sha256": "990d113fc069bb399d10a66afea5874023113f322e83f1b224e7cd2f3bb39e10",
+          "bytes": 223652
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/fernando-meirelles/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/fernando-meirelles/landscape-color.png?v=9d42c36edd69",
+          "width": 1760,
+          "height": 990,
+          "bits": 8,
+          "sha256": "9d42c36edd69850da2dd7f32f39dfe908b31ed51242a166ceaa002284fdc6dfc",
+          "bytes": 516755
+        }
+      }
+    },
+    {
+      "slug": "kleber-mendonca-filho",
+      "name": "Kleber Mendonça Filho",
+      "folderId": "folder-177e6633",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/1016214-kleber-mendonca-filho/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/7jOzp98FiL6C22tphTHEPWAhK11.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "64020232e3753a1718ed63fdd4a0a6a86a0ff5533055bfbcb462fc576434d160"
+      },
+      "sourceMasterSha256": "bda3741da0df1a80bf26338a1aeeae3cc3f7aa81d4735de17db489353642a581",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/kleber-mendonca-filho/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kleber-mendonca-filho/portrait-color.png?v=881487878131",
+          "width": 364,
+          "height": 546,
+          "bits": 8,
+          "sha256": "881487878131b9fcf294e8b36668c82f4a3595782bb31bd6d3613d98d6f31ee4",
+          "bytes": 309233
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/kleber-mendonca-filho/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kleber-mendonca-filho/portrait-bw.png?v=5079711fd5b2",
+          "width": 364,
+          "height": 546,
+          "bits": 8,
+          "sha256": "5079711fd5b2abe28ccde47659f24b9cca5f8a5fbb6463c0bcd51e9acf217b8d",
+          "bytes": 171285
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/kleber-mendonca-filho/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kleber-mendonca-filho/landscape-color.png?v=de17b734885a",
+          "width": 1232,
+          "height": 693,
+          "bits": 8,
+          "sha256": "de17b734885a5bb27c9bfa548d586c9afc942c110eed5e9e0571440c27fd26e1",
+          "bytes": 450955
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Kleber Mendonça Filho. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "paul-thomas-anderson",
+      "name": "Paul Thomas Anderson",
+      "folderId": "b9f91d7e-8651-41da-8e20-56177052717d",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/4762-paul-thomas-anderson/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/psR7fGTuE5X9eoBs29jk681bEmF.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "b2a73e48571451eb0abef6bde5a61a002e47752769e69cc7838a7bb0a139578f"
+      },
+      "sourceMasterSha256": "d4911b1d227648c4d2f6e66ea3da800856d3ad70e1e093f1aa61339358bef55c",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/paul-thomas-anderson/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/paul-thomas-anderson/portrait-color.png?v=71f9729c833b",
+          "width": 894,
+          "height": 1341,
+          "bits": 8,
+          "sha256": "71f9729c833b056c779feec5de035442e021d8ab89381a6d98fc970494cba62e",
+          "bytes": 1526169
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/paul-thomas-anderson/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/paul-thomas-anderson/portrait-bw.png?v=0884f3fcb0f2",
+          "width": 894,
+          "height": 1341,
+          "bits": 8,
+          "sha256": "0884f3fcb0f228d307075785563d8e6a4267e5b57a88af4ad5cc956e056663a7",
+          "bytes": 846099
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/paul-thomas-anderson/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/paul-thomas-anderson/landscape-color.png?v=d7d48a7b981c",
+          "width": 2384,
+          "height": 1341,
+          "bits": 8,
+          "sha256": "d7d48a7b981c8f89459fd197d73d2e793a1f4ae1c2b4dfd32a82af304a83ac56",
+          "bytes": 1806031
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Paul Thomas Anderson. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "wes-anderson",
+      "name": "Wes Anderson",
+      "folderId": "d20d0613-0230-4460-b583-d524502cace5",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/5655-wes-anderson/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/yxmdOK1kKGXMtcZwWDW3N02y240.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "0fa289abde6283a495e8a32b9bcc0114526d5b836c696dc66f5cb40899be69d1"
+      },
+      "sourceMasterSha256": "38745f3cc8a7f66183bdcaa0788a898b4f9f15de6d790a088c76d50234455db5",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/wes-anderson/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/wes-anderson/portrait-color.png?v=69767f2d81f6",
+          "width": 636,
+          "height": 954,
+          "bits": 16,
+          "sha256": "69767f2d81f6d52d0e7b52360ee53ea09ece248be459a9771f8624b991d55212",
+          "bytes": 1742571
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/wes-anderson/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/wes-anderson/portrait-bw.png?v=154ead83b71c",
+          "width": 636,
+          "height": 954,
+          "bits": 16,
+          "sha256": "154ead83b71ca9324c2bc45eba1f71ef98af43d206c1f44a981489597890f63a",
+          "bytes": 1417320
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/wes-anderson/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/wes-anderson/landscape-color.png?v=8985484513e1",
+          "width": 1872,
+          "height": 1053,
+          "bits": 16,
+          "sha256": "8985484513e154445bb6d954bde51932e38f9aed70f4cb17061f635f1e3f4b8b",
+          "bytes": 2183318
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Wes Anderson. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "judd-apatow",
+      "name": "Judd Apatow",
+      "folderId": "folder-44af5ab0",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://mubi.com/en/cast/judd-apatow",
+        "photoUrl": "https://images.mubicdn.net/images/cast_member/23558/cache-2235-1606486213/image-w856.jpg",
+        "credit": "Photographer not identified on linked page",
+        "license": "Não verificada para publicação",
+        "sha256": "098a467dabd3998e4f23632b137c627fe2a979614a616dbd7cf57a410bb14a07"
+      },
+      "sourceMasterSha256": "3556f011bddcdf953f40cba275f15e3b53c529d0d7898a95ab6f29f38e6d1806",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/judd-apatow/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/judd-apatow/portrait-color.png?v=bda488e4d453",
+          "width": 1020,
+          "height": 1530,
+          "bits": 8,
+          "sha256": "bda488e4d4532a07e683f464f0c8b21d5731132f911a425a6d6c62605f78c4e1",
+          "bytes": 2063516
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/judd-apatow/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/judd-apatow/portrait-bw.png?v=a9ddaa51ed6d",
+          "width": 1020,
+          "height": 1530,
+          "bits": 8,
+          "sha256": "a9ddaa51ed6d14a6e9d64b198ae173faf4e91c2eaa019af86be251c8a4b29707",
+          "bytes": 1143760
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/judd-apatow/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/judd-apatow/landscape-color.png?v=de742c7bbc07",
+          "width": 2960,
+          "height": 1665,
+          "bits": 8,
+          "sha256": "de742c7bbc074e797964fa3a288b96868dd1e867e217248fc7e7d9b8e516d1f2",
+          "bytes": 2763258
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Judd Apatow. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "kathryn-bigelow",
+      "name": "Kathryn Bigelow",
+      "folderId": "folder-1aacff6d",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Kathryn_Bigelow_by_David_Shankbone.jpg",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kathryn_Bigelow_by_David_Shankbone.jpg",
+        "credit": "David Shankbone",
+        "license": "CC BY 2.0",
+        "sha256": "4a5d4b4aa1f81a4a627b3520904b6053eea067416f7dd59e530873085c19b431"
+      },
+      "sourceMasterSha256": "91e3d9a373ae1c0959866e27252e2cb99fe477ca5c5dac4c9bdecf0c78821ac4",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/kathryn-bigelow/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kathryn-bigelow/portrait-color.png?v=7ed05b63ad0f",
+          "width": 572,
+          "height": 858,
+          "bits": 8,
+          "sha256": "7ed05b63ad0faef2abadc760625b3dfe9e777b323f0fb9ca4b4381fc2f35e021",
+          "bytes": 815272
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/kathryn-bigelow/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kathryn-bigelow/portrait-bw.png?v=9c6f80b31618",
+          "width": 572,
+          "height": 858,
+          "bits": 8,
+          "sha256": "9c6f80b3161847af41afc5a74caf566b0123ae9c47ecb90f436088706f1d7dae",
+          "bytes": 460600
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/kathryn-bigelow/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/kathryn-bigelow/landscape-color.png?v=0954a32f4d77",
+          "width": 1536,
+          "height": 864,
+          "bits": 8,
+          "sha256": "0954a32f4d7753b398f41fba6ffaf789b604b679d7d0eb77b66a907eb49e95a0",
+          "bytes": 992835
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Kathryn Bigelow. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. Preserve long hair, black blouse and expression. No red backdrop or red fringe; do not change the face."
+    },
+    {
+      "slug": "danny-boyle",
+      "name": "Danny Boyle",
+      "folderId": "4efbbe36-09bc-46e7-8703-81a031b2d10b",
+      "photoOption": 1,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Fotografia anteriormente aprovada preservada.",
+      "sourcePhoto": {
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Danny_Boyle_2019.jpg",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Danny_Boyle_2019.jpg",
+        "credit": "Fred Trauerts / Montclair Film",
+        "license": "CC BY 2.0",
+        "sha256": "1ae397b8b43cea0c70faf9c948818cead32596a33def5b3135299e071bce8861"
+      },
+      "sourceMasterSha256": "426c5fa67ae1abfbe4485040b27d6cbde758461667932403fff0bd56baa40fed",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/danny-boyle/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/danny-boyle/portrait-color.png?v=344fb424e800",
+          "width": 496,
+          "height": 744,
+          "bits": 8,
+          "sha256": "344fb424e8000e28b3dcfa7ad1373f8c5bb2643a0e917437baaa73a80600191b",
+          "bytes": 523885
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/danny-boyle/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/danny-boyle/portrait-bw.png?v=f376368059c3",
+          "width": 496,
+          "height": 744,
+          "bits": 8,
+          "sha256": "f376368059c321590a233a1b9948e7ca3021e443c211d83467327a5eb4d19a57",
+          "bytes": 367988
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/danny-boyle/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/danny-boyle/landscape-color.png?v=3a0389fe44a7",
+          "width": 1472,
+          "height": 828,
+          "bits": 8,
+          "sha256": "3a0389fe44a72944bc9c4005679774934feeb88bd8fee17a545317ebcc91e0af",
+          "bytes": 840722
+        }
+      }
+    },
+    {
+      "slug": "tim-burton",
+      "name": "Tim Burton",
+      "folderId": "55723bb4-2335-4dc4-a510-8934bb75906c",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/510-tim-burton/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/oWZDgLRr4zgRiJEsOAtgntPd5bI.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "3b7c57d798b91b71e945add0089cf60183213744c960525df4b9c99f27529e00"
+      },
+      "sourceMasterSha256": "8e50efbabd5cd4c81b3bd024a9b827215403a9ae254b56a7a9465eb33d0c0a91",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/tim-burton/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/tim-burton/portrait-color.png?v=3d2000b4b4cc",
+          "width": 950,
+          "height": 1425,
+          "bits": 8,
+          "sha256": "3d2000b4b4cc56abe0ec2842a84dd491ada665bd718e6ed6248f97131d89120e",
+          "bytes": 1219992
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/tim-burton/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/tim-burton/portrait-bw.png?v=181885c9d83f",
+          "width": 950,
+          "height": 1425,
+          "bits": 8,
+          "sha256": "181885c9d83ff2d2b45b9f9fbde2cecf8cfa4a5fd17430910d36a2c9a3c5c092",
+          "bytes": 784466
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/tim-burton/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/tim-burton/landscape-color.png?v=bbc7eec57d53",
+          "width": 2608,
+          "height": 1467,
+          "bits": 8,
+          "sha256": "bbc7eec57d5349205da33fece0e5106bf9ab4ccd334bb275981669521da6a85d",
+          "bytes": 1547375
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Asset: photographic transparent cutout master for a director gallery, not a designed page. Image 1 is the edit target: Tim Burton. Outpaint only the missing lateral shoulders and upper jacket, so both shoulder contours are complete and natural instead of ending in vertical photographic cuts. Keep his EXACT recognizable face, age, facial structure, expression, eyes, gaze, curly hair silhouette, beard, black jacket and dark shirt, pose, and original photographic texture and lighting. Do not beautify or invent a new face. Frame as a centered generous head-and-shoulders bust in a square canvas, with the full top of hair visible, both complete shoulders with a little transparent space beyond their outer curves, and a natural mid-chest crop at the bottom. Do not add hands, text, props, watermarks, backdrop, or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with genuinely transparent background. Keep the existing central photograph as unchanged as possible; generate the missing shoulder/jacket continuation."
+    },
+    {
+      "slug": "coen-brothers",
+      "name": "Coen Brothers",
+      "folderId": "3df117e4-e42b-4898-9226-0e4ebaa075f7",
+      "photoOption": 0,
+      "variant": "manter",
+      "syntheticClothing": false,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.festival-cannes.com/mediatheque/joel-ethan-coen-photocall-jurys-longs-metrages/",
+        "photoUrl": "https://img.festival-cannes.com/eyJidWNrZXQiOiJtZWRpYSIsImtleSI6InVwbG9hZHNcLzIwMTdcLzAzXC9GaWxlbmFtZV9fMTQ3ODJfNTU1MzUxMzIyOWEwMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE2MDAsImZpdCI6ImNvdmVyIn19fQ%3D%3D",
+        "credit": "Festival de Cannes; photographer not specified on page",
+        "license": "Não verificada para publicação",
+        "sha256": "1e49d9bdf75753d82faf904e08d6fad1edb7c2306fdfde2225b4216a9a88f255"
+      },
+      "sourceMasterSha256": "ba7e8515ca073c692343fb548d3852288c7c48f583b4e9da4a715dce88760bd5",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/coen-brothers/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/coen-brothers/portrait-color.png?v=8230f3a2ef09",
+          "width": 854,
+          "height": 1281,
+          "bits": 8,
+          "sha256": "8230f3a2ef0940e4ee3e21b0e18db1e8bd1c058c0caebf505b2203169a0def91",
+          "bytes": 923741
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/coen-brothers/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/coen-brothers/portrait-bw.png?v=b28c800a50e1",
+          "width": 854,
+          "height": 1281,
+          "bits": 8,
+          "sha256": "b28c800a50e1d73d04a80eb905fcc1887cf188e80e520fca36ca8e0756e927eb",
+          "bytes": 523434
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/coen-brothers/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/coen-brothers/landscape-color.png?v=4231529c9c25",
+          "width": 1600,
+          "height": 900,
+          "bits": 8,
+          "sha256": "4231529c9c256e7979dd707d348614684491d9cbdb2fa28f7c718e18c198aab3",
+          "bytes": 1378204
+        }
+      }
+    },
+    {
+      "slug": "francis-ford-coppola",
+      "name": "Francis Ford Coppola",
+      "folderId": "folder-cbbca417",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://entertainment.ie/person/francis-ford-coppola/",
+        "photoUrl": "https://images.entertainment.ie/person/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg",
+        "credit": "Photographer not identified on linked page",
+        "license": "Não verificada para publicação",
+        "sha256": "4e169eb5516e727ee19ed71e5a61fa733b44a172d565e3b0a9b41b409359c36a"
+      },
+      "sourceMasterSha256": "a380eebaa7f4a04a2330a944cf5af38fc0f1859454f41fddf791126f78cd706b",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/francis-ford-coppola/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/francis-ford-coppola/portrait-color.png?v=8747e00db75e",
+          "width": 800,
+          "height": 1200,
+          "bits": 8,
+          "sha256": "8747e00db75e1cbf7c43d7aed4f88da50f22b7efa1bccd72f67f20c838cfa963",
+          "bytes": 1194406
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/francis-ford-coppola/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/francis-ford-coppola/portrait-bw.png?v=7cd448cf816c",
+          "width": 800,
+          "height": 1200,
+          "bits": 8,
+          "sha256": "7cd448cf816c79ac4b5ddf91139dfa726d0da8658bd47f8bcd1e40151e02a6a6",
+          "bytes": 704498
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/francis-ford-coppola/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/francis-ford-coppola/landscape-color.png?v=dc15a42f50f7",
+          "width": 2896,
+          "height": 1629,
+          "bits": 8,
+          "sha256": "dc15a42f50f7b119afa2031d548f0c1c0ce3d919820e255316588e0569e0ddbf",
+          "bytes": 1741794
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Francis Ford Coppola. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. Both shoulders must fit; the previous draft still cropped the outer right shoulder. Keep the charcoal suit, white shirt, tie and tiny red lapel pin. Use the available wide canvas instead of a tight headshot."
+    },
+    {
+      "slug": "alfonso-cuaron",
+      "name": "Alfonso Cuarón",
+      "folderId": "1816351d-936d-498e-811e-9334f1680b99",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/11218-alfonso-cuaron/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/gaHhrzPfxfc3cbQLkDt54gtP3n1.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "62b61a59003b07a2ddc835d27be44bcd89a0671942d6cda757ffe5c273b446df"
+      },
+      "sourceMasterSha256": "0fa3f6e22f042ef521a444b646a59366c8c199b52f81c8767c4b1b844d99819a",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/alfonso-cuaron/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/alfonso-cuaron/portrait-color.png?v=dc8f9c33fe16",
+          "width": 594,
+          "height": 891,
+          "bits": 8,
+          "sha256": "dc8f9c33fe166046c816daaa18117f964df453384ef7f7c6a414c9123e71cb29",
+          "bytes": 688811
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/alfonso-cuaron/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/alfonso-cuaron/portrait-bw.png?v=2f43e7bf5c09",
+          "width": 594,
+          "height": 891,
+          "bits": 8,
+          "sha256": "2f43e7bf5c0992fad2a1e01b144de3a1d89978b620cfeb8f446ce8c970d0ceaf",
+          "bytes": 393411
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/alfonso-cuaron/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/alfonso-cuaron/landscape-color.png?v=42b1a79e0571",
+          "width": 1584,
+          "height": 891,
+          "bits": 8,
+          "sha256": "42b1a79e057102dada8f064a7c94b6f2b2cd4d9950ed69490c12f658174e9bad",
+          "bytes": 873132
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is the edit target: Alfonso Cuarón. Create a photographic transparent cutout master. Outpaint only the missing left/right shoulders and upper clothing, replacing the straight photographic edge cuts with complete anatomically natural shoulder curves. Preserve the recognizable identity, facial structure, age, skin texture, expression, pose, head size, hair, and existing photographic lighting as faithfully as possible. Keep the exact dark blazer, open blue shirt, hair, beard, head angle, gaze and expression. Do not add hands or objects. Frame a generous centered head-and-shoulders bust on a square canvas, full hair and both shoulder caps visible with a little transparent space beyond their outer curves. Natural crop at mid chest along the bottom. Do not beautify or smooth the face, change clothes, invent props, add text, watermarks, a backdrop, or checkerboard pixels. Return one high-quality photorealistic PNG with actual transparent alpha. Keep the central original portrait unchanged as far as possible; generate only the missing clothing continuation."
+    },
+    {
+      "slug": "clint-eastwood",
+      "name": "Clint Eastwood",
+      "folderId": "folder-6799c7d8",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/190-clint-eastwood/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/5YJsrm2PPU0Zsrdly4IvGWtrZMz.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "6d4614e9a26de78226c835f019d4eb574373bef0ef6ccf3bf152a27b1a9d2353"
+      },
+      "sourceMasterSha256": "94a2845159376e5a99a06c08a71f9270388b27e6f7876c560e8ab2b2fc922c94",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/clint-eastwood/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/clint-eastwood/portrait-color.png?v=14a4d4d1c624",
+          "width": 470,
+          "height": 705,
+          "bits": 8,
+          "sha256": "14a4d4d1c6246875932d1f8a6af8d5ffb0412f9c1749c6581e34f7e2c2b2baaf",
+          "bytes": 515570
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/clint-eastwood/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/clint-eastwood/portrait-bw.png?v=1a1bdb1c74e9",
+          "width": 470,
+          "height": 705,
+          "bits": 8,
+          "sha256": "1a1bdb1c74e9885d021a9f6ab0e261ebf28900ea7a10afb8cf2d20f815cb7361",
+          "bytes": 277401
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/clint-eastwood/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/clint-eastwood/landscape-color.png?v=950ad06216c4",
+          "width": 1296,
+          "height": 729,
+          "bits": 8,
+          "sha256": "950ad06216c4c7dfe5aca4cd250d1af81793e2752371e48261c4fa56e12b375d",
+          "bytes": 648634
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Clint Eastwood. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "david-fincher",
+      "name": "David Fincher",
+      "folderId": "7e5cdb30-e166-4a95-b67e-99c3702278ad",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.tvinsider.com/people/david-fincher/",
+        "photoUrl": "https://ntvb.tmsimg.com/assets/assets/74061_v9_bb.jpg",
+        "credit": "Photographer not identified on linked page",
+        "license": "Não verificada para publicação",
+        "sha256": "0eb56ad9c9b3d18182e59d32fae86d45c880527bb91842e8442c502d43789218"
+      },
+      "sourceMasterSha256": "bf91bb926f8d4b934b1f41c96ba18e83f8adfdbd59ab5daa9e8609a88aa43bad",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/david-fincher/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/david-fincher/portrait-color.png?v=5ce4b576e72f",
+          "width": 984,
+          "height": 1476,
+          "bits": 8,
+          "sha256": "5ce4b576e72f873a2d2a4d3b1de165a12bdf21f82f4264cef51af3c9f85e3dc7",
+          "bytes": 1759374
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/david-fincher/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/david-fincher/portrait-bw.png?v=4148cc1c6c18",
+          "width": 984,
+          "height": 1476,
+          "bits": 8,
+          "sha256": "4148cc1c6c18692b5e66b95ea6c471ecd3e8b4651af75ff829a518a860f504ad",
+          "bytes": 961025
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/david-fincher/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/david-fincher/landscape-color.png?v=c16a0d68dcff",
+          "width": 2720,
+          "height": 1530,
+          "bits": 8,
+          "sha256": "c16a0d68dcffaa8f4fb2323596f30d844d2dfb1ff9d76ba17ed336f50a9ad489",
+          "bytes": 2182694
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: David Fincher. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "ron-howard",
+      "name": "Ron Howard",
+      "folderId": "fe1d5a0a-5075-4919-83c4-781a936085ec",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/6159-ron-howard/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/g3n8qduLaPO2l4kJZsV6xNMXozn.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "8c9c8d36a4850c50e724e0a6264e1270c0f1109faf0cdc93e7bf69eb9ede5c94"
+      },
+      "sourceMasterSha256": "085351a816d0c13fdc06f8639d9a7e211dea9b4bdadb17a693fbacc5fda114be",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/ron-howard/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ron-howard/portrait-color.png?v=1dab2b5d6a4d",
+          "width": 884,
+          "height": 1326,
+          "bits": 8,
+          "sha256": "1dab2b5d6a4d5782f8e5ff220786b2384a063f648bb3704503178630493f5a60",
+          "bytes": 1341205
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/ron-howard/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ron-howard/portrait-bw.png?v=f93adabdaf9d",
+          "width": 884,
+          "height": 1326,
+          "bits": 8,
+          "sha256": "f93adabdaf9dde8b6c87656d96e2b92e05f8f79fb2d5ccad4a4c70bbfce4621a",
+          "bytes": 765013
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/ron-howard/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ron-howard/landscape-color.png?v=03ec36c420fe",
+          "width": 2368,
+          "height": 1332,
+          "bits": 8,
+          "sha256": "03ec36c420fe030a310f9eacba68a48980b5f8e2faf95fdbc4b1de0454330f5c",
+          "bytes": 1690677
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Ron Howard. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "stanley-kubrick",
+      "name": "Stanley Kubrick",
+      "folderId": "cade12bf-d7fc-4a21-9262-3b96d9f37fe0",
+      "photoOption": 0,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Original limpo: complemento da proposta ainda precisava de refinamento.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.stalbansmuseums.org.uk/portrait",
+        "photoUrl": "https://www.stalbansmuseums.org.uk/sites/default/files/images/portrait-stanleykubrick.jpg",
+        "credit": "Christiane Kubrick, conforme St Albans Museums",
+        "license": "Sem licença aberta declarada; crédito documentado pelo museu",
+        "sha256": "51493b424780d24f62339e920c56e34d588dbccaacddf34ec36ad5abe7d027c2"
+      },
+      "sourceMasterSha256": "c3198c06c93bad202feabc1391f4c421bc2d9731de937bf904dc12a8bd79ea4e",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/stanley-kubrick/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/stanley-kubrick/portrait-color.png?v=476a36dfa754",
+          "width": 852,
+          "height": 1278,
+          "bits": 8,
+          "sha256": "476a36dfa754666e98f3c7bc9b7cba22a3f0bcecd62142163b0f066d69f214db",
+          "bytes": 1303483
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/stanley-kubrick/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/stanley-kubrick/portrait-bw.png?v=b01f0a8995ad",
+          "width": 852,
+          "height": 1278,
+          "bits": 8,
+          "sha256": "b01f0a8995adb93fe192eaa76442a4b3fd602bd5b25d7f77db73385c9f87e422",
+          "bytes": 623026
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/stanley-kubrick/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/stanley-kubrick/landscape-color.png?v=7e9f26c73680",
+          "width": 2272,
+          "height": 1278,
+          "bits": 8,
+          "sha256": "7e9f26c73680c3e23e82b0fde9e79eb885768b8b24dbedda98be3bb28dd65285",
+          "bytes": 1667620
+        }
+      }
+    },
+    {
+      "slug": "akira-kurosawa",
+      "name": "Akira Kurosawa",
+      "folderId": "folder-00970b61",
+      "photoOption": 2,
+      "variant": "luz-suave",
+      "syntheticClothing": false,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://collections.tepapa.govt.nz/object/564115",
+        "photoUrl": "https://co3-api-mediastorage.s3.ap-southeast-2.amazonaws.com/67920/preview",
+        "credit": "Brian Brake; Te Papa, CT.033997; Gift of Mr Raymond Wai-Man Lau, 2001",
+        "license": "All Rights Reserved",
+        "sha256": "b3cab03a9801a4e152522f470db23cab25d8cac48a730fd7caabc1ba73ec91ef"
+      },
+      "sourceMasterSha256": "d6aae07232d622b4d9d587669ee5408e3c9fdfaf32099292e0310a4c7dae0c66",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/akira-kurosawa/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/akira-kurosawa/portrait-color.png?v=402b997982c3",
+          "width": 414,
+          "height": 621,
+          "bits": 8,
+          "sha256": "402b997982c3b2099d1e2cfe2a32b78dc9947f96b16fb5b57bfb7d500e16fd6e",
+          "bytes": 245538
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/akira-kurosawa/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/akira-kurosawa/portrait-bw.png?v=2a1929da5efa",
+          "width": 414,
+          "height": 621,
+          "bits": 8,
+          "sha256": "2a1929da5efa630d11e34cbe15bff1128b2c5ef53eee91ab2ef2a31eeebcee73",
+          "bytes": 151349
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/akira-kurosawa/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/akira-kurosawa/landscape-color.png?v=b8c8ef5e03b9",
+          "width": 1104,
+          "height": 621,
+          "bits": 8,
+          "sha256": "b8c8ef5e03b9701059417af25221ab78c1f24de8ce59e9a9d57bc2a688523cce",
+          "bytes": 453350
+        }
+      }
+    },
+    {
+      "slug": "emir-kusturica",
+      "name": "Emir Kusturica",
+      "folderId": "folder-42dc0b6a",
+      "photoOption": 1,
+      "variant": "ombros-cor",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:EmirKusturica_cropped.jpg",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/EmirKusturica_cropped.jpg",
+        "credit": "Victor Dmitriev",
+        "license": "CC BY-SA 3.0",
+        "sha256": "99dd1205d896c69f67b1e26bea10d74d6e6513f4153dbc5283e38819ac29f5e4"
+      },
+      "sourceMasterSha256": "c180adc2ad0125e7107bba4169465657cb23858608461e12f30b455e935dba82",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/emir-kusturica/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/emir-kusturica/portrait-color.png?v=595c35cb3d52",
+          "width": 1368,
+          "height": 2052,
+          "bits": 8,
+          "sha256": "595c35cb3d527f05da42a99cc41ad9d01932dee4113dd71820e1ee0a31920d5e",
+          "bytes": 3514295
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/emir-kusturica/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/emir-kusturica/portrait-bw.png?v=6a4caf0560a2",
+          "width": 1368,
+          "height": 2052,
+          "bits": 8,
+          "sha256": "6a4caf0560a2759783d43d024da896b7614094f45a35656fb8e1b42ee4118a9e",
+          "bytes": 1774917
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/emir-kusturica/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/emir-kusturica/landscape-color.png?v=a5ff65ba5bcd",
+          "width": 3648,
+          "height": 2052,
+          "bits": 8,
+          "sha256": "a5ff65ba5bcd6c5bd898577e81cdb809ed0d6f99230698526872739e4b04a400",
+          "bytes": 4474392
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Emir Kusturica. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background.  Also correct the excessive yellow/orange lighting to a natural neutral white balance while retaining realistic skin tone, original shadows, age and skin texture. Do not make the face pale, smooth, younger or different. Keep the olive jacket and dark shirt."
+    },
+    {
+      "slug": "ang-lee",
+      "name": "Ang Lee",
+      "folderId": "folder-173be50e",
+      "photoOption": 0,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Fotografia anteriormente aprovada preservada.",
+      "sourcePhoto": {
+        "pageUrl": "https://time.com/5696958/director-ang-lee-gemini-man/",
+        "photoUrl": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt77aed40da8ebdbec/698a040e16d884f473c37191/director-ang-lee.jpg?branch=production",
+        "credit": "Photographer not identified on linked page",
+        "license": "Não verificada para publicação",
+        "sha256": "b95119603b370f49a0b052f98beea3dfaa476a245e4f58f830476eb5443b5239"
+      },
+      "sourceMasterSha256": "5973cc984620d41ca8e226fd032ade4c7747037e129600566a999553525c0d6a",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/ang-lee/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ang-lee/portrait-color.png?v=6373995c9ad0",
+          "width": 1380,
+          "height": 2070,
+          "bits": 8,
+          "sha256": "6373995c9ad008b13919522c65e7d28e46d8734b5350e3f91473b133d359a1db",
+          "bytes": 4603678
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/ang-lee/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ang-lee/portrait-bw.png?v=d36242ecc7c2",
+          "width": 1380,
+          "height": 2070,
+          "bits": 8,
+          "sha256": "d36242ecc7c2ba4b2837b6aed806ea80adba129360fb5924c609d44491825140",
+          "bytes": 2515675
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/ang-lee/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ang-lee/landscape-color.png?v=6e74ccaa0891",
+          "width": 3680,
+          "height": 2070,
+          "bits": 8,
+          "sha256": "6e74ccaa0891555d2f0c28c4045317ee901d046078a307a99104633e1c3312b0",
+          "bytes": 5561504
+        }
+      }
+    },
+    {
+      "slug": "chris-miller-and-phil-lord",
+      "name": "Chris Miller and Phil Lord",
+      "folderId": "folder-802052d4",
+      "photoOption": 2,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Original limpo: complemento da proposta ainda precisava de refinamento.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.latimes.com/entertainment-arts/awards/story/2024-02-12/writing-across-spider-verse-chris-miller-phil-lord",
+        "photoUrl": "https://ca-times.brightspotcdn.com/dims4/default/b6dd21a/2147483647/strip/false/crop/8192x5464%2B0%2B0/resize/1486x991%21/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4e%2F46%2F8c03a3184687bbb885b5452a191a%2F1401706-env-0123-lord-miller-photo-cmh-06.jpg",
+        "credit": "Christina House / Los Angeles Times",
+        "license": "Fotografia editorial; direitos reservados",
+        "sha256": "5613fb6a62bad15c9dce36e4b3d28b1a8e35c0f12861443810a9d4012c91f045"
+      },
+      "sourceMasterSha256": "d31490e820876f373c1b069007753a8dd41be0984c0d60359026d2c1cc40a377",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/chris-miller-and-phil-lord/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chris-miller-and-phil-lord/portrait-color.png?v=3e49b745779a",
+          "width": 4984,
+          "height": 7476,
+          "bits": 8,
+          "sha256": "3e49b745779a72e2df554cc51c1d85134e3916dfbf67a991c7c1a8927702de7b",
+          "bytes": 30100455
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/chris-miller-and-phil-lord/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chris-miller-and-phil-lord/portrait-bw.png?v=639ce742750b",
+          "width": 4984,
+          "height": 7476,
+          "bits": 8,
+          "sha256": "639ce742750b8133a7b586a74fa0c45db981f03744d2f45f288dedc337f0f42e",
+          "bytes": 17557172
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/chris-miller-and-phil-lord/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chris-miller-and-phil-lord/landscape-color.png?v=ffc342543a9b",
+          "width": 9632,
+          "height": 5418,
+          "bits": 8,
+          "sha256": "ffc342543a9b49a8c7a315079b827616647a1bd392b3a758500329617397f14e",
+          "bytes": 43675253
+        }
+      }
+    },
+    {
+      "slug": "george-lucas",
+      "name": "George Lucas",
+      "folderId": "folder-9d3ed743",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://uznayvse.ru/znamenitosti/biografiya-dzhordzh-lukas.html",
+        "photoUrl": "https://uznayvse.ru/images/catalog/2022/3/george-lucas_26.jpg",
+        "credit": "Photographer not identified on linked page",
+        "license": "Não verificada para publicação",
+        "sha256": "48e224154cd6bd258d5132fc0495c8d0657381618477698c4bc7fdf213fe4b1e"
+      },
+      "sourceMasterSha256": "e8a8109ed694e63d8e180bad8c904d19f273ed3bc57319029acf6fc82bde62dc",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/george-lucas/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/george-lucas/portrait-color.png?v=9cf74cc8800b",
+          "width": 962,
+          "height": 1443,
+          "bits": 8,
+          "sha256": "9cf74cc8800ba115979d75cd50bcec48ef0df8cdbd4c665561771492e2d5d894",
+          "bytes": 1591388
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/george-lucas/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/george-lucas/portrait-bw.png?v=0d8c00b38444",
+          "width": 962,
+          "height": 1443,
+          "bits": 8,
+          "sha256": "0d8c00b38444fd4dc37ea68694b4ec370cbf1797141d71baa8c0defc9584da44",
+          "bytes": 996126
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/george-lucas/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/george-lucas/landscape-color.png?v=cf82e8c5da43",
+          "width": 2672,
+          "height": 1503,
+          "bits": 8,
+          "sha256": "cf82e8c5da436e21e7f6c25f2a024242b04ec74e4aaa273f0159c3783fee2dee",
+          "bytes": 2191780
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: George Lucas. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "martin-mcdonagh",
+      "name": "Martin McDonagh",
+      "folderId": "folder-3b502954",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/54472-martin-mcdonagh/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/cjk2f3sYOqDnTUn4m07j4sNcncf.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "2340fa743e31ce56be04ada88414777a26e5d63c5df3eb9eccf3e98d58b0cbb5"
+      },
+      "sourceMasterSha256": "d23eb45ad01e70d0898fb81a380294ed8491dc65c2e9d43360c32e328bea82fe",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/martin-mcdonagh/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-mcdonagh/portrait-color.png?v=aee1f8f27694",
+          "width": 930,
+          "height": 1395,
+          "bits": 8,
+          "sha256": "aee1f8f27694f484b30de70cea8d16a0a32cc33369feed175da189f5fe6c374f",
+          "bytes": 1287387
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/martin-mcdonagh/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-mcdonagh/portrait-bw.png?v=ed74759ffd04",
+          "width": 930,
+          "height": 1395,
+          "bits": 8,
+          "sha256": "ed74759ffd04806e6755ab829610a130f3933f3865646376aab1a1f51a290cf3",
+          "bytes": 725477
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/martin-mcdonagh/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/martin-mcdonagh/landscape-color.png?v=9fc4f9e0b386",
+          "width": 2480,
+          "height": 1395,
+          "bits": 8,
+          "sha256": "9fc4f9e0b3867f7ad0d3089e95cc5a75934e63615ff27b59b89296b138d7d95b",
+          "bytes": 1605418
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: Martin McDonagh. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "gus-van-sant",
+      "name": "Gus Van Sant",
+      "folderId": "folder-40cdc8d6",
+      "photoOption": 1,
+      "variant": "cor-suave",
+      "syntheticClothing": false,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Gus_Van_Sant_2018.jpg",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Gus_Van_Sant_2018.jpg",
+        "credit": "Harald Krichel / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sha256": "995094756e2a565453662873124fa43b2b08fa234004b1bab311bc13e7a35418"
+      },
+      "sourceMasterSha256": "f619772e1c3de2345a4e2752255794e9cf45ea8b3b3a627bbd35e6611e1a5469",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/gus-van-sant/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/gus-van-sant/portrait-color.png?v=cb0cb3dcb8b6",
+          "width": 914,
+          "height": 1371,
+          "bits": 8,
+          "sha256": "cb0cb3dcb8b6713bb4e3113d61dc2f92b5892d4c4e90c1a0ee22edbc1f3c3865",
+          "bytes": 2321709
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/gus-van-sant/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/gus-van-sant/portrait-bw.png?v=898668087b04",
+          "width": 914,
+          "height": 1371,
+          "bits": 8,
+          "sha256": "898668087b04cde0ca20e71741f2c98288eb2884a5e6786963574c142c44d191",
+          "bytes": 1191615
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/gus-van-sant/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/gus-van-sant/landscape-color.png?v=8557dd86ea90",
+          "width": 2448,
+          "height": 1377,
+          "bits": 8,
+          "sha256": "8557dd86ea907d968e712f17a697b329a62c265282a6b24c65742c9c6ad520c9",
+          "bytes": 2621362
+        }
+      },
+      "generationNote": "O complemento foi rejeitado pelo serviço; aplicada somente correção fotográfica de cor."
+    },
+    {
+      "slug": "ridley-scott",
+      "name": "Ridley Scott",
+      "folderId": "c40e3a32-0bef-411e-957a-5ca317cafd03",
+      "photoOption": 0,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Original limpo: complemento da proposta ainda precisava de refinamento.",
+      "sourcePhoto": {
+        "pageUrl": "https://oglobo.globo.com/cultura/noticia/2024/11/14/ridley-scott-diz-por-que-levou-20-anos-para-fazer-gladiador-ii.ghtml",
+        "photoUrl": "https://s2-oglobo.glbimg.com/3F-z7aYRBEfd93evrO9w-7-010U%3D/0x0%3A2700x3600/888x0/smart/filters%3Astrip_icc%28%29/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/W/N/N4K6EpRLWbqwSwvxwxFA/gladiator-scott-adv10-1.jpg",
+        "credit": "Photographer not identified on linked page",
+        "license": "Não verificada para publicação",
+        "sha256": "5119a70ecc630d230f5b3ebf6afda2437f34b4b3db134eb8afd36bf914729d79"
+      },
+      "sourceMasterSha256": "c5a9bd950b587e42dcd79e57821586ed1eb9ec89985b8ef2fa6cf6860f233118",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/ridley-scott/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ridley-scott/portrait-color.png?v=7beebde818e3",
+          "width": 888,
+          "height": 1332,
+          "bits": 8,
+          "sha256": "7beebde818e3fc89076c13bc1fe99f32f936bdaff071aa96e5d00e7b622404ba",
+          "bytes": 1500161
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/ridley-scott/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ridley-scott/portrait-bw.png?v=f2904ccbd623",
+          "width": 888,
+          "height": 1332,
+          "bits": 8,
+          "sha256": "f2904ccbd623ae25cd3a596d327e8ee811de0cebe4b603a491b630d26d7b1aa7",
+          "bytes": 995256
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/ridley-scott/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/ridley-scott/landscape-color.png?v=56f7d9b65e5a",
+          "width": 2464,
+          "height": 1386,
+          "bits": 8,
+          "sha256": "56f7d9b65e5a5268fa5dbda864507be7df639010e92d33c70384de62f5b6bdc7",
+          "bytes": 1606957
+        }
+      }
+    },
+    {
+      "slug": "m-night-shyamalan",
+      "name": "M. Night Shyamalan",
+      "folderId": "d7b36d03-0f34-40bf-b9d1-32a226362987",
+      "photoOption": 0,
+      "variant": "ombros",
+      "syntheticClothing": true,
+      "selectionReason": "Seleção e proposta aplicadas por autorização do usuário em 17/10/2026.",
+      "sourcePhoto": {
+        "pageUrl": "https://tv.apple.com/us/person/m-night-shyamalan/umc.cpc.8sl00ub135enrja5wwamnoy2",
+        "photoUrl": "https://is2-ssl.mzstatic.com/image/thumb/4jdEyXP9TYxas2wwiOe-AQ/1200x675mf.jpg",
+        "credit": "Apple TV profile image; photographer not specified",
+        "license": "Não verificada para publicação",
+        "sha256": "1d21d11e1660b4cb32b1a9df807cbf4c4b35afe5eddc2af8630fad101c0cb911"
+      },
+      "sourceMasterSha256": "c55f2e13a23920e8e8427e2446a15b6602c9d3f289905f7359c5eae9e15d9232",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/m-night-shyamalan/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/m-night-shyamalan/portrait-color.png?v=6618d4a8ff12",
+          "width": 470,
+          "height": 705,
+          "bits": 8,
+          "sha256": "6618d4a8ff12b0c5bfe311ecc5c3866183cfb1b6c698e067bacad409f469bef6",
+          "bytes": 396681
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/m-night-shyamalan/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/m-night-shyamalan/portrait-bw.png?v=f0e608850808",
+          "width": 470,
+          "height": 705,
+          "bits": 8,
+          "sha256": "f0e60885080864e1aa26d69cee1da2d9f0b2119627087d38587c2d84bd6e4827",
+          "bytes": 232857
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/m-night-shyamalan/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/m-night-shyamalan/landscape-color.png?v=2d37511cd473",
+          "width": 1264,
+          "height": 711,
+          "bits": 8,
+          "sha256": "2d37511cd47304a69ff8b6f55e871c6be241e0d353bffd50a7019e8d0e4b9d8b",
+          "bytes": 498254
+        }
+      },
+      "generatedRegion": "Extensão de ombros e roupa; região central do rosto fotográfico preservada.",
+      "prompt": "Use case: identity-preserve. Image 1 is an edit target on a wide transparent canvas: M. Night Shyamalan. Outpaint the missing lateral shoulders and upper clothing into the transparent side space. The source ends in straight photographic side cuts; replace those cuts with anatomically natural, COMPLETE shoulder caps and a little upper sleeve visible beyond each shoulder. Preserve exact identity, facial structure, age, expression, gaze, head angle, hair, beard/glasses and photographic texture. Keep the existing central photograph as unchanged as possible; the original face will be retained in the final composite. Match existing clothing, fabric, collar, perspective and lighting. Use a landscape approximately 3:2 canvas, subject centered and small enough that BOTH complete outer shoulder curves have transparent margin at the sides. Full hair visible, bust ends naturally at mid-chest along the bottom, no waist or belly. No new props, text, watermark, backdrop or checkerboard pixels. Return one high-quality photorealistic RGBA PNG with actual transparent background. "
+    },
+    {
+      "slug": "oliver-stone",
+      "name": "Oliver Stone",
+      "folderId": "8b122e7c-5119-42d1-9e4e-a880c364ddd4",
+      "photoOption": 1,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Fotografia anteriormente aprovada preservada.",
+      "sourcePhoto": {
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Oliver_Stone_(27915831573).jpg",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Oliver_Stone_%2827915831573%29.jpg",
+        "credit": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "sha256": "89e900cfc50f3a36cf00f3e1ba8aa6de8a291d9a4e52399ad7f69d23a3aa4bca"
+      },
+      "sourceMasterSha256": "a6a73cf0db5ce6ff10ab36d762b1bda8e8d0db1044b6e0773e3583d3ba142129",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/oliver-stone/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/oliver-stone/portrait-color.png?v=456fb0ae39e6",
+          "width": 388,
+          "height": 582,
+          "bits": 8,
+          "sha256": "456fb0ae39e68a55ae67ae99b149031b42128e3790575d2262c0daf9beae15bf",
+          "bytes": 338692
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/oliver-stone/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/oliver-stone/portrait-bw.png?v=8ab6e66cf726",
+          "width": 388,
+          "height": 582,
+          "bits": 8,
+          "sha256": "8ab6e66cf7265e2b1d280e76cc2f6d4a060b4a5a15e5d87c5d6a6f8bca1f2171",
+          "bytes": 191645
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/oliver-stone/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/oliver-stone/landscape-color.png?v=6d6395122653",
+          "width": 1264,
+          "height": 711,
+          "bits": 8,
+          "sha256": "6d63951226535a2a19fb170f871548f22b83a07c7fd61348a59dd52f18711177",
+          "bytes": 545904
+        }
+      }
+    },
+    {
+      "slug": "guillermo-del-toro",
+      "name": "Guillermo del Toro",
+      "folderId": "folder-20cf5f45",
+      "photoOption": 0,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Fotografia anteriormente aprovada preservada.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.unlv.edu/news/release/barrick-lecture-series-presents-evening-guillermo-del-toro-oct-17",
+        "photoUrl": "https://www.unlv.edu/sites/default/files/styles/1200_width/public/releases/main-images/delToro_hires.jpeg?itok=TjM4KY30",
+        "credit": "Photographer not identified on linked page",
+        "license": "Não verificada para publicação",
+        "sha256": "923962946ef9ce12051434ca010028369736064ccb2566910bb8f4134009dd0b"
+      },
+      "sourceMasterSha256": "4b8a062a1e5feffbfd497f2ae27afcb1e282931cf8e955c0eb4cd4d9faa25f57",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/guillermo-del-toro/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/guillermo-del-toro/portrait-color.png?v=f6f185933b7c",
+          "width": 446,
+          "height": 669,
+          "bits": 8,
+          "sha256": "f6f185933b7c039ed8f26c89aa5ae0b4513a2025d6417d7710c87cf4ec542169",
+          "bytes": 307810
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/guillermo-del-toro/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/guillermo-del-toro/portrait-bw.png?v=842ead995485",
+          "width": 446,
+          "height": 669,
+          "bits": 8,
+          "sha256": "842ead995485ce742552e93800d66cc26682a97dc8b7442b8a383c9088637d85",
+          "bytes": 197389
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/guillermo-del-toro/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/guillermo-del-toro/landscape-color.png?v=d3f06d944400",
+          "width": 1408,
+          "height": 792,
+          "bits": 8,
+          "sha256": "d3f06d94440096b6693cf6d1698b9120509e5f46cb639bd031f79b8579c89873",
+          "bytes": 393431
+        }
+      }
+    },
+    {
+      "slug": "jean-marc-vallee",
+      "name": "Jean-Marc Vallée",
+      "folderId": "folder-266a505c",
+      "photoOption": 0,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Fotografia anteriormente aprovada preservada.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.vanityfair.com/hollywood/2021/12/12/jean-marc-vallee-dead-58-director-big-little-lies",
+        "photoUrl": "https://media.vanityfair.com/photos/61c9da21720e98fe729260fe/master/w_2560%2Cc_limit/634253158",
+        "credit": "Photographer not identified on linked page",
+        "license": "Não verificada para publicação",
+        "sha256": "7de54d06db785cf099bcdccb0e0ddcdfc35def841a996cfcbb8c36fdd1abb316"
+      },
+      "sourceMasterSha256": "c252c5facc880452f217d008e2aecb1c338c085cdd6b575038bb04f7bad8f545",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/jean-marc-vallee/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/jean-marc-vallee/portrait-color.png?v=0b4dabe85efb",
+          "width": 1404,
+          "height": 2106,
+          "bits": 8,
+          "sha256": "0b4dabe85efb9f8e34f6379959b81a32c89c85e14b3d4653f7dfe813bbf5bc2d",
+          "bytes": 2945902
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/jean-marc-vallee/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/jean-marc-vallee/portrait-bw.png?v=9f38aff53a29",
+          "width": 1404,
+          "height": 2106,
+          "bits": 8,
+          "sha256": "9f38aff53a292e3d908ec527f19ef0f6f8a8c91d0b6d292f81fb2d85bd0d52f3",
+          "bytes": 1804170
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/jean-marc-vallee/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/jean-marc-vallee/landscape-color.png?v=2cc79218ea49",
+          "width": 5072,
+          "height": 2853,
+          "bits": 8,
+          "sha256": "2cc79218ea4953330890d2523de75fd201cea4069e85f55801917f903d1afb31",
+          "bytes": 4394852
+        }
+      }
+    },
+    {
+      "slug": "chloe-zhao",
+      "name": "Chloé Zhao",
+      "folderId": "folder-f53e663d",
+      "photoOption": 0,
+      "variant": "fotografia-revisada",
+      "syntheticClothing": false,
+      "selectionReason": "Fotografia anteriormente aprovada preservada.",
+      "sourcePhoto": {
+        "pageUrl": "https://www.themoviedb.org/person/1395183-chloe-zhao/images/profiles",
+        "photoUrl": "https://image.tmdb.org/t/p/original/r8DmTdOqHbDUydCOVb277rncPTK.jpg",
+        "credit": "TMDB profile image; contributor not identified",
+        "license": "Não verificada para publicação",
+        "sha256": "019f48d67ca725c8a67ebc913497b17219554fe0e8ef4910599f5ac8e2b6152e"
+      },
+      "sourceMasterSha256": "8c3a319562417107833d28d3d1931fab7a64e88d47d61cf3c920702d0e4be7fe",
+      "files": {
+        "portrait-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/chloe-zhao/portrait-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chloe-zhao/portrait-color.png?v=38fe8f25b341",
+          "width": 432,
+          "height": 648,
+          "bits": 8,
+          "sha256": "38fe8f25b3413393ab13b04b518a279ce82b43bf45c897998bdf655a191562ba",
+          "bytes": 475955
+        },
+        "portrait-bw": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/chloe-zhao/portrait-bw.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chloe-zhao/portrait-bw.png?v=40d84115b052",
+          "width": 432,
+          "height": 648,
+          "bits": 8,
+          "sha256": "40d84115b0523bb18fe03c7cf3eec91a0cee13572d0287f09385c3210cadff4b",
+          "bytes": 275888
+        },
+        "landscape-color": {
+          "path": "assets/covers/diretores/revisao-2026-10-17/chloe-zhao/landscape-color.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/diretores/revisao-2026-10-17/chloe-zhao/landscape-color.png?v=f0d3600ddef5",
+          "width": 1152,
+          "height": 648,
+          "bits": 8,
+          "sha256": "f0d3600ddef57d06a42dfdba0576c58836db5434c0779381f374a08b029946af",
+          "bytes": 554441
+        }
+      }
+    }
+  ]
+}
