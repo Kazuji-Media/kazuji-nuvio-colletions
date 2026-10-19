@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "collection-beabeb28-community",
+  "collectionTitle": "Streamings",
+  "folders": [
+    {
+      "id": "folder-3dd88f2d",
+      "title": "Apple TV",
+      "set": {
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/apple-tv/cover.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/apple-tv/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-6bfa2b7e",
+      "title": "HBO Max",
+      "set": {
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hbo-max/cover.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hbo-max/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-a4a45888",
+      "title": "Netflix",
+      "set": {
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/netflix/cover.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/netflix/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-0c0ad18f",
+      "title": "Disney+",
+      "set": {
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/disney-plus/cover.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/disney-plus/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-bf605c17",
+      "title": "Prime Video",
+      "set": {
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/prime-video/cover.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/prime-video/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-fb83902c",
+      "title": "Hulu",
+      "set": {
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hulu/cover.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hulu/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-7a64710a",
+      "title": "Paramount+",
+      "set": {
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/paramount-plus/cover.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/paramount-plus/focus.gif",
+        "focusGifEnabled": true
+      }
+    }
+  ]
+}

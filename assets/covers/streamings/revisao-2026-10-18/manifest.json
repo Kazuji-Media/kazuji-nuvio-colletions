@@ -1,0 +1,333 @@
+{
+  "version": "2026-10-18",
+  "formats": {
+    "cover": "1920x1080 PNG",
+    "focus": "1280x720 GIF, 12.5fps, 256 colors, no audio"
+  },
+  "notes": "AVID identifies the visual sequences; video credits name the actual uploaders. Rights remain with the brands and respective owners; source availability does not grant a reuse license. HBO Max uses the clean 2020 purple identity; filmed-screen 2025 material was rejected.",
+  "services": [
+    {
+      "slug": "apple-tv",
+      "pageUrl": "https://www.avid.wiki/Apple_TV_(2019-)",
+      "videoUrl": "https://www.youtube.com/watch?v=6sX_BfDnyrg",
+      "identity": "Apple TV, logo 2025, glass animation",
+      "credit": "Apple TV official YouTube channel",
+      "id": "6sX_BfDnyrg",
+      "title": "Apple TV",
+      "duration": 5,
+      "width": 1920,
+      "height": 1080,
+      "uploader": "Apple TV",
+      "channel_url": "https://www.youtube.com/channel/UC1Myj674wRVXB9I4c6Hm5zA",
+      "sourceVideoSha256": "8b11af7704e70099a67ed8d075678c25320979eff68bddb57fd056756b3155fe",
+      "edit": {
+        "startSeconds": 0.2,
+        "durationSeconds": 3.6,
+        "finalHoldSeconds": 0.5,
+        "coverFrameSeconds": 3.2,
+        "fps": 12.5,
+        "palette": "256 colors; ordered Bayer dithering (scale 3) to avoid temporal noise and reduce file size",
+        "aspectRatioPolicy": "Preserve original composition, add black bars when necessary; no image enlargement beyond source detail"
+      },
+      "files": {
+        "cover": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/apple-tv/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/apple-tv/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "durationMs": 0,
+          "bytes": 73434,
+          "sha256": "8a700bc133c6eb8582967d806342e456f8d9695eb6f9450909d13709b0244908"
+        },
+        "focus": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/apple-tv/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/apple-tv/focus.gif",
+          "width": 1280,
+          "height": 720,
+          "frames": 51,
+          "durationMs": 4080,
+          "bytes": 2343874,
+          "sha256": "9937af5c7a0b5718578fe03702d3aa64765a561536502030ee286682ba9ace23"
+        }
+      },
+      "folderId": "folder-3dd88f2d"
+    },
+    {
+      "id": "XU7Lr0-Y0bU",
+      "title": "HBO Max",
+      "duration": 20,
+      "width": 1920,
+      "height": 1080,
+      "uploader": "Broken Saw",
+      "channel_url": "https://www.youtube.com/channel/UClIZ-XYlobdwgfyomN_2WyA",
+      "slug": "hbo-max",
+      "pageUrl": "https://www.avid.wiki/HBO_Max",
+      "videoUrl": "https://www.youtube.com/watch?v=XU7Lr0-Y0bU",
+      "identity": "HBO Max Original purple particles, 2020; clean international HBO wordmark variant",
+      "sourceVideoSha256": "0588ee16e9bceb65f925bc218fa7cea51b97b390581700b9019735c168bb1d14",
+      "edit": {
+        "startSeconds": 0.45,
+        "durationSeconds": 2.05,
+        "finalHoldSeconds": 0.5,
+        "coverFrameSeconds": 2.0,
+        "fps": 12.5,
+        "palette": "256 colors; ordered Bayer dithering (scale 3) to avoid temporal noise and reduce file size",
+        "aspectRatioPolicy": "Preserve original composition, add black bars when necessary; no image enlargement beyond source detail"
+      },
+      "files": {
+        "cover": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/hbo-max/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hbo-max/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "durationMs": 0,
+          "bytes": 342027,
+          "sha256": "7302e789089a7d335fe77c439257e930f2ac6a48409db7eb6414780ab84c18b7"
+        },
+        "focus": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/hbo-max/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hbo-max/focus.gif",
+          "width": 1280,
+          "height": 720,
+          "frames": 32,
+          "durationMs": 2560,
+          "bytes": 9699859,
+          "sha256": "0dad88c1f5f460506b46adb1d5d6aee551fb0fe575d688858b79f4c987a05456"
+        }
+      },
+      "folderId": "folder-6bfa2b7e"
+    },
+    {
+      "slug": "netflix",
+      "pageUrl": "https://www.avid.wiki/Netflix_(streaming_service)",
+      "videoUrl": "https://www.youtube.com/watch?v=GV3HUDMQ-F8",
+      "identity": "2019 N-to-spectrum opening",
+      "id": "GV3HUDMQ-F8",
+      "title": "Netflix",
+      "duration": 4,
+      "width": 1920,
+      "height": 1080,
+      "uploader": "Netflix",
+      "channel_url": "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw",
+      "sourceVideoSha256": "1fd6a690ee32aa833110b21468aa2269f1e6bd93c6773ab976d729d501b12f61",
+      "edit": {
+        "startSeconds": 0.1,
+        "durationSeconds": 3.65,
+        "finalHoldSeconds": 0.5,
+        "coverFrameSeconds": 0.9,
+        "fps": 12.5,
+        "palette": "256 colors; ordered Bayer dithering (scale 3) to avoid temporal noise and reduce file size",
+        "aspectRatioPolicy": "Preserve original composition, add black bars when necessary; no image enlargement beyond source detail"
+      },
+      "files": {
+        "cover": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/netflix/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/netflix/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "durationMs": 0,
+          "bytes": 45145,
+          "sha256": "66d8df2c5e7ba799314da8b506de6ee30b11aad6737446e30fcec332739a2bae"
+        },
+        "focus": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/netflix/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/netflix/focus.gif",
+          "width": 1280,
+          "height": 720,
+          "frames": 52,
+          "durationMs": 4160,
+          "bytes": 6555720,
+          "sha256": "877eba7cd71842df029ee9ff3e77f326c7c55e746df18e136708d7fc35be122b"
+        }
+      },
+      "folderId": "folder-a4a45888"
+    },
+    {
+      "id": "UOVT6r5GgJg",
+      "title": "Disney+",
+      "duration": 4,
+      "width": 1920,
+      "height": 1080,
+      "uploader": "The End Credits Fan and Remaker.",
+      "channel_url": "https://www.youtube.com/channel/UCK9wB23Z-qtD9lSO1J3CbKg",
+      "slug": "disney-plus",
+      "pageUrl": "https://www.avid.wiki/Disney%2B_Originals",
+      "videoUrl": "https://www.youtube.com/watch?v=UOVT6r5GgJg",
+      "identity": "Disney+ Originals aurora opening, 2024",
+      "sourceVideoSha256": "f773af692bb685f538f39e36649fb90dffa920ea040bb06bf624e6895fd97fb3",
+      "edit": {
+        "startSeconds": 0.1,
+        "durationSeconds": 3.3,
+        "finalHoldSeconds": 0.5,
+        "coverFrameSeconds": 3.0,
+        "fps": 12.5,
+        "palette": "256 colors; ordered Bayer dithering (scale 3) to avoid temporal noise and reduce file size",
+        "aspectRatioPolicy": "Preserve original composition, add black bars when necessary; no image enlargement beyond source detail"
+      },
+      "files": {
+        "cover": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/disney-plus/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/disney-plus/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "durationMs": 0,
+          "bytes": 412705,
+          "sha256": "77e6aa82443d1f4488973f1ae8cc26a16bc57bcbd62c63eace95b4bb07541f74"
+        },
+        "focus": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/disney-plus/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/disney-plus/focus.gif",
+          "width": 1280,
+          "height": 720,
+          "frames": 47,
+          "durationMs": 3760,
+          "bytes": 7742200,
+          "sha256": "ef4618a8c06d5d14bdcc71a406690865c99fcd3569e8d98bbbd4828618395925"
+        }
+      },
+      "folderId": "folder-0c0ad18f"
+    },
+    {
+      "slug": "prime-video",
+      "pageUrl": "https://www.avid.wiki/Amazon_Originals",
+      "videoUrl": "https://www.youtube.com/watch?v=n6iq6aXrCSg",
+      "identity": "Prime Video metallic blue smile and spotlight, 2022",
+      "id": "n6iq6aXrCSg",
+      "title": "Prime Video",
+      "duration": 6,
+      "width": 2560,
+      "height": 1066,
+      "uploader": "Broken Saw",
+      "channel_url": "https://www.youtube.com/channel/UClIZ-XYlobdwgfyomN_2WyA",
+      "sourceVideoSha256": "6f9275d116dd0d8755902111b8b6e543e7322f75d139813017a9e932427c1649",
+      "edit": {
+        "startSeconds": 0.4,
+        "durationSeconds": 4.3,
+        "finalHoldSeconds": 0.5,
+        "coverFrameSeconds": 4.2,
+        "fps": 12.5,
+        "palette": "256 colors; ordered Bayer dithering (scale 3) to avoid temporal noise and reduce file size",
+        "aspectRatioPolicy": "Preserve original composition, add black bars when necessary; no image enlargement beyond source detail"
+      },
+      "files": {
+        "cover": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/prime-video/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/prime-video/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "durationMs": 0,
+          "bytes": 73172,
+          "sha256": "f82a8b62863d3b969bb9cdbd2020add639ad541445eb7113fe6d09c43bc2bfbb"
+        },
+        "focus": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/prime-video/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/prime-video/focus.gif",
+          "width": 1280,
+          "height": 720,
+          "frames": 60,
+          "durationMs": 4800,
+          "bytes": 10296484,
+          "sha256": "4cfba70938d950f47222a18fbd123d9caa96a8ba06e9f0d39ba4967c6ab81e5c"
+        }
+      },
+      "folderId": "folder-bf605c17"
+    },
+    {
+      "slug": "hulu",
+      "pageUrl": "https://www.avid.wiki/Hulu_Originals",
+      "videoUrl": "https://www.youtube.com/watch?v=kTv01nMVQjc",
+      "identity": "Hulu green wordmark and multicolor border, 2021",
+      "id": "kTv01nMVQjc",
+      "title": "Hulu",
+      "duration": 5,
+      "width": 1920,
+      "height": 1080,
+      "uploader": "Zelig Sound",
+      "channel_url": "https://www.youtube.com/channel/UCRG9qc7LbiePTRH4-XjNX0Q",
+      "sourceVideoSha256": "c8f6f1972324afce8bb89db292b823994c3fbbd27f72405f41d0a4c5aa19bf21",
+      "edit": {
+        "startSeconds": 0.35,
+        "durationSeconds": 3.7,
+        "finalHoldSeconds": 0.5,
+        "coverFrameSeconds": 3.2,
+        "fps": 12.5,
+        "palette": "256 colors; ordered Bayer dithering (scale 3) to avoid temporal noise and reduce file size",
+        "aspectRatioPolicy": "Preserve original composition, add black bars when necessary; no image enlargement beyond source detail"
+      },
+      "files": {
+        "cover": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/hulu/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hulu/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "durationMs": 0,
+          "bytes": 92309,
+          "sha256": "791d0a5f157673c496ebeacac639737ddfff025e91a69bf1535a014f660a58d0"
+        },
+        "focus": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/hulu/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hulu/focus.gif",
+          "width": 1280,
+          "height": 720,
+          "frames": 52,
+          "durationMs": 4160,
+          "bytes": 7206738,
+          "sha256": "cfaba24dc7360b9aa27100eaa01941501a3136d2155094752eb232e2dab4b22f"
+        }
+      },
+      "folderId": "folder-fb83902c"
+    },
+    {
+      "slug": "paramount-plus",
+      "pageUrl": "https://www.avid.wiki/Paramount%2B",
+      "videoUrl": "https://www.youtube.com/watch?v=CmgMu1mp7s8",
+      "identity": "Paramount+ mountain and stars, 2021",
+      "id": "CmgMu1mp7s8",
+      "title": "Paramount+",
+      "duration": 12,
+      "width": 1920,
+      "height": 1080,
+      "uploader": "Paramount",
+      "channel_url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
+      "sourceVideoSha256": "450d4889c80065bc5784152b546d3fd8ae5b563253a533dd863b20cd6d6db047",
+      "edit": {
+        "startSeconds": 5.4,
+        "durationSeconds": 4.3,
+        "finalHoldSeconds": 0.5,
+        "coverFrameSeconds": 8.5,
+        "fps": 12.5,
+        "palette": "256 colors; ordered Bayer dithering (scale 3) to avoid temporal noise and reduce file size",
+        "aspectRatioPolicy": "Preserve original composition, add black bars when necessary; no image enlargement beyond source detail"
+      },
+      "files": {
+        "cover": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/paramount-plus/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/paramount-plus/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "durationMs": 0,
+          "bytes": 304604,
+          "sha256": "808329c7909444d392e1e4c8de6103cca1ce87b332996ab6194677c695f4403a"
+        },
+        "focus": {
+          "path": "assets/covers/streamings/revisao-2026-10-18/paramount-plus/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/paramount-plus/focus.gif",
+          "width": 1280,
+          "height": 720,
+          "frames": 60,
+          "durationMs": 4800,
+          "bytes": 9880007,
+          "sha256": "c376124beabbf1940855630b020ed1a0dc2932ed422e0952d8dc5bfc9c1ea760"
+        }
+      },
+      "folderId": "folder-7a64710a"
+    }
+  ]
+}

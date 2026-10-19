@@ -1,0 +1,366 @@
+[
+  {
+    "id": "collection-beabeb28-community",
+    "title": "Streamings",
+    "folders": [
+      {
+        "id": "folder-3dd88f2d",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "Filmes da Apple TV+",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "350"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": null,
+            "genre": null,
+            "title": "Séries da Apple TV+",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "350"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "TV",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/apple-tv/focus.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/apple-tv/cover.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-6bfa2b7e",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "Filmes do HBO Max",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "384"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": null,
+            "genre": null,
+            "title": "Séries do HBO Max",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "384"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "TV",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hbo-max/focus.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hbo-max/cover.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-a4a45888",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "Filmes da Netflix",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "8"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": null,
+            "genre": null,
+            "title": "Séries da Netflix",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "8"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "TV",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/netflix/focus.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/netflix/cover.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-0c0ad18f",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "Filmes do Disney+",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "337"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": null,
+            "genre": null,
+            "title": "Séries do Disney+",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "337"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "TV",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": null,
+            "genre": null,
+            "title": "Filmes da Disney, Pixar e DreamWorks",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "withCompanies": "2|3|521"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/disney-plus/focus.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/disney-plus/cover.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-bf605c17",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "Filmes do Prime Video",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "119"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": null,
+            "genre": null,
+            "title": "Séries do Prime Video",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "119"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "TV",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/prime-video/focus.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/prime-video/cover.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-fb83902c",
+        "title": "Hulu",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "Filmes do Hulu",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "15"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": null,
+            "genre": null,
+            "title": "Séries do Hulu",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "15"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "TV",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hulu/focus.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/hulu/cover.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-7a64710a",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "Filmes da Paramount+",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "531"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": null,
+            "genre": null,
+            "title": "Séries da Paramount+",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "watchRegion": "BR",
+              "withWatchProviders": "531"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "TV",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/paramount-plus/focus.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/revisao-2026-10-18/paramount-plus/cover.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/161c7fde-ad93-41a2-919a-c830f4e8f6fb.jpeg",
+    "focusGlowEnabled": false
+  }
+]

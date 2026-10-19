@@ -97,9 +97,6 @@ As artes-base de gêneros foram obtidas de [tolbertsol/nuvio](https://github.com
 
 ## GIFs de streamings
 
-| Serviço | Arquivo |
-|---|---|
-| Netflix | [netflix.gif](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/netflix.gif) |
-| Paramount+ | [paramount-plus.gif](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/streamings/paramount-plus.gif) |
-
-As duas animações foram publicadas pelos perfis verificados [NETFLIX](https://giphy.com/gifs/netflix-4KFmqHyCeKrh8FEAUu) e [Paramount+](https://giphy.com/gifs/paramountplus-paramount-plus-RYqQ4xZJ3GGDAU9Akm) no GIPHY. Foram usadas variantes reduzidas para carregar melhor em dispositivos móveis.
+Apple TV, HBO Max, Netflix, Disney+, Prime Video, Hulu e Paramount+ agora têm GIFs de foco em **720p**, com capas estáticas em **1080p**, baseados nas identidades documentadas no AVID.
+Veja [seleção, créditos e integração](docs/streamings-artwork.md), o [manifesto das artes](assets/covers/streamings/revisao-2026-10-18/manifest.json) e a [coleção pronta para importar](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/collections/streamings.json).
+As 15 fontes de catálogo foram preservadas. A Apple usa a abertura de vidro de 2025; o HBO Max usa uma captura limpa da identidade roxa de 2020. Os GIFs anteriores de Netflix e Paramount+ continuam nos caminhos antigos.
