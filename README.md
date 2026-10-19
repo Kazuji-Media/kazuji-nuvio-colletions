@@ -2,6 +2,12 @@
 
 Capas, emblemas e referências de fontes para as coleções do Nuvio. O repositório é público e os arquivos podem ser usados diretamente por URL do GitHub Raw.
 
+## Referências visuais
+
+[AVID — Audiovisual Identity Database](https://www.avid.wiki/): referência para pesquisar logos, aberturas e animações de estúdios e serviços de streaming. Foi usado na seleção das artes e GIFs destas collections.
+
+Exemplo utilizado: [Apple Original Films — imagem original em 4K](https://www.avid.wiki/File:Apple_Original_Films_(A).png).
+
 ## Diretores
 
 38 diretores com portrait colorido, portrait P&B e landscape transparente em resolução nativa.
