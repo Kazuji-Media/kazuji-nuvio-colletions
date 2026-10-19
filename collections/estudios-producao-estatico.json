@@ -533,6 +533,37 @@
         "catalogSources": [],
         "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/cartoon-network/hero.jpg"
+      },
+      {
+        "id": "folder-kazuji-studio-ghibli",
+        "title": "Studio Ghibli",
+        "sources": [
+          {
+            "title": "Filmes | Studio Ghibli",
+            "provider": "tmdb",
+            "tmdbSourceType": "COMPANY",
+            "tmdbId": 10342,
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {}
+          },
+          {
+            "title": "Séries | Studio Ghibli",
+            "provider": "tmdb",
+            "tmdbSourceType": "COMPANY",
+            "tmdbId": 10342,
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {}
+          }
+        ],
+        "catalogSources": [],
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/studio-ghibli/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/studio-ghibli/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/studio-ghibli/cover.png",
+        "focusGifEnabled": false
       }
     ],
     "pinToTop": true,

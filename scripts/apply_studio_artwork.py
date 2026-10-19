@@ -22,6 +22,12 @@ def apply(collections, patch, static=False):
         raise ValueError('Duplicate folder IDs in input')
     for change in patch['folders']:
         matches = [f for f in folders if f['id'] == change['id']]
+        if not matches and 'createIfMissing' in change:
+            creation = copy.deepcopy(change['createIfMissing'])
+            if creation.get('id') != change['id']:
+                raise ValueError('Creation ID does not match artwork mapping')
+            folders.append(creation)
+            matches = [creation]
         if len(matches) != 1:
             raise ValueError('Missing folder: ' + change['title'])
         matches[0].update(change['set'])

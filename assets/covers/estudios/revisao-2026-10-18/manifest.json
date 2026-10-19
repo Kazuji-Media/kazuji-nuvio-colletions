@@ -480,6 +480,50 @@
           "modified": false
         }
       }
+    },
+    {
+      "slug": "studio-ghibli",
+      "title": "Studio Ghibli",
+      "folderId": "folder-kazuji-studio-ghibli",
+      "tmdbCompanyId": 10342,
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/studio-ghibli/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/studio-ghibli/cover.png",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/10342-studio-ghibli/cards/radial_24242c_0f0f13_0.35_0.35/card_10342_white_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false,
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 211762,
+          "sha256": "57684680651d99bd6cdf85160cf14787293e6d64a0f237b277ffc957d4f7bb62"
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/studio-ghibli/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/studio-ghibli/hero.jpg",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/10342-studio-ghibli/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false,
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1277566,
+          "sha256": "c4ddbd7125c46e24164c1e82dcd936198424e8230c0478013acd16a5c83cc2cb"
+        },
+        "focus": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/studio-ghibli/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/studio-ghibli/focus.gif",
+          "sourceUrl": "https://raw.githubusercontent.com/MuditGuptaR/nuvio-assets/main/collections/studios/focused/ghibli.gif",
+          "credit": "MuditGuptaR/nuvio-assets",
+          "modified": false,
+          "width": 500,
+          "height": 250,
+          "frames": 30,
+          "bytes": 1920422,
+          "sha256": "6764b92ece3ba1be8783fc491eeee03446852c3635165e59683d0243ccf61cb0"
+        }
+      }
     }
   ]
 }
