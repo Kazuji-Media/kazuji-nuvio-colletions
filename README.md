@@ -9,7 +9,7 @@ Veja a [documentação das artes e integração](docs/diretores-artwork.md), o [
 
 ## Estúdios de produção
 
-12 capas em 1080p, 12 fundos em 4K e cinco GIFs de foco (A24, Disney, DreamWorks, Pixar e Cartoon Network), hospedados neste repositório.
+12 capas em Full HD/4K, 12 fundos em 4K e cinco GIFs de foco (A24, Disney, DreamWorks, Pixar e Cartoon Network), hospedados neste repositório. A Apple usa a imagem original 4K escolhida no AVID.
 Importe [a coleção com animações](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/collections/estudios-producao.json) ou [a versão estática](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/collections/estudios-producao-estatico.json).
 Veja [fontes, resoluções e integração](docs/estudios-artwork.md) e o [manifesto das artes](assets/covers/estudios/revisao-2026-10-18/manifest.json).
 Os GIFs preservam sua resolução nativa, inferior a HD. Os JSONs preservam as 25 fontes do backup local; para manter edições posteriores, aplique o mapeamento a uma exportação atual com o script documentado.

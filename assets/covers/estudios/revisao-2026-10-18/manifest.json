@@ -51,6 +51,38 @@
       "folderId": "folder-069af205",
       "files": {
         "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/apple-studios/apple-original-films-4k.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/apple-original-films-4k.png",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 830668,
+          "sha256": "984717958523a52dbbb41d1352f6ee1b7db7fb4f00ccc395fdc6e10940d71315",
+          "sourceUrl": "https://static.wikitide.net/avidwiki/7/70/Apple_Original_Films_%28A%29.png",
+          "sourcePage": "https://www.avid.wiki/File:Apple_Original_Films_(A).png",
+          "credit": "Apple / Apple Original Films; capture hosted by AVID",
+          "modified": false,
+          "rights": "Copyrighted film capture; AVID identifies its use as fair use, not a general reuse license.",
+          "selectionReason": "Original 4K image explicitly selected by the user on 18/10/2026."
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/apple-studios/apple-original-films-4k.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/apple-original-films-4k.png",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 830668,
+          "sha256": "984717958523a52dbbb41d1352f6ee1b7db7fb4f00ccc395fdc6e10940d71315",
+          "sourceUrl": "https://static.wikitide.net/avidwiki/7/70/Apple_Original_Films_%28A%29.png",
+          "sourcePage": "https://www.avid.wiki/File:Apple_Original_Films_(A).png",
+          "credit": "Apple / Apple Original Films; capture hosted by AVID",
+          "modified": false,
+          "rights": "Copyrighted film capture; AVID identifies its use as fair use, not a general reuse license.",
+          "selectionReason": "Original 4K image explicitly selected by the user on 18/10/2026."
+        }
+      },
+      "previousArtwork": {
+        "cover": {
           "path": "assets/covers/estudios/revisao-2026-10-18/apple-studios/cover.png",
           "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/cover.png",
           "width": 1920,

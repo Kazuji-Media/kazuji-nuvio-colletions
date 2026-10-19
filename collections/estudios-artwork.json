@@ -21,9 +21,9 @@
       "set": {
         "tileShape": "LANDSCAPE",
         "hideTitle": true,
-        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/cover.png",
-        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/hero.png",
-        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/cover.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/apple-original-films-4k.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/apple-original-films-4k.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/apple-original-films-4k.png",
         "focusGifEnabled": false
       }
     },

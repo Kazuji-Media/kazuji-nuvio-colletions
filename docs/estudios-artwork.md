@@ -1,6 +1,6 @@
 # Artes de Estúdios de produção
 
-12 capas landscape em PNG **1920 × 1080**, 12 fundos **3840 × 2160** e cinco GIFs de foco.
+11 capas landscape em PNG **1920 × 1080**, capa Apple em **3840 × 2160**, 12 fundos **3840 × 2160** e cinco GIFs de foco.
 Os arquivos estão em [assets/covers/estudios/revisao-2026-10-18](../assets/covers/estudios/revisao-2026-10-18).
 O [manifesto](../assets/covers/estudios/revisao-2026-10-18/manifest.json) registra origem, crédito, resolução nativa, quadros, bytes e SHA-256 de cada imagem.
 
@@ -29,7 +29,7 @@ Publicar no GitHub não altera automaticamente uma coleção já instalada: impo
 |---|---|
 | `tileShape` | `LANDSCAPE` em todas as pastas |
 | `hideTitle` | `true`, pois o logotipo já identifica o estúdio |
-| `coverImageUrl` | PNG estático 1080p |
+| `coverImageUrl` | PNG estático 1080p; Apple em 4K |
 | `heroBackdropUrl` | Fundo 4K |
 | `focusGifUrl` | GIF quando disponível; capa estática nas outras pastas |
 | `focusGifEnabled` | Ativado somente para os cinco GIFs na versão animada |
@@ -40,9 +40,10 @@ As capas são 16:9; os GIFs preservam a proporção original e podem receber rec
 ## Qualidade e fontes
 
 As capas de 10 estúdios e 11 fundos foram copiadas sem alteração de [Prism Wallpapers, de bramst0ne](https://github.com/bramst0ne/prism-wallpapers).
-A Apple Studios usa o [SVG da marca no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apple_Studios.svg), preservado em `apple-studios/original.svg`, com layout SVG e saída PNG em 1080p/4K.
+A Apple Studios usa agora a [imagem Apple Original Films selecionada pelo usuário no AVID](https://www.avid.wiki/File:Apple_Original_Films_(A).png), em 3840 × 2160, copiada sem alteração para `apple-studios/apple-original-films-4k.png`. O mesmo arquivo serve como capa, fundo e referência de foco estático. A marca e as fontes de catálogo da pasta Apple Studios permanecem as mesmas. O AVID identifica a captura como material protegido usado sob fair use; isso não concede uma licença geral de reutilização.
+A opção anterior baseada no [SVG da marca no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apple_Studios.svg) continua preservada em `apple-studios/original.svg`, `cover.svg`, `cover.png` e `hero.png`; o manifesto registra essa opção em `previousArtwork`.
 A capa Cartoon Network Studios usa o logotipo branco do Prism em um layout SVG; o original está preservado em `cartoon-network/logo.png`.
-Esses dois layouts mantêm fontes vetoriais/editáveis em `cover.svg`. As demais capas são os arquivos nativos do acervo.
+O layout Cartoon Network e a opção anterior da Apple mantêm fontes vetoriais/editáveis em `cover.svg`. As demais capas são os arquivos nativos do acervo.
 
 Os GIFs vêm dos acervos [rrevanth/nuvio-assets](https://github.com/rrevanth/nuvio-assets) e [MuditGuptaR/nuvio-assets](https://github.com/MuditGuptaR/nuvio-assets), além do GIF A24 já usado na coleção, agora copiado para o repositório.
 
