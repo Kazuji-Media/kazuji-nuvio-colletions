@@ -1,0 +1,453 @@
+{
+  "version": "2026-10-18",
+  "notes": "Static covers 1080p and heroes 4K. GIFs retain native resolution and are not HD. Logos and movie artwork retain their owners rights; upstream repositories do not provide a blanket license for these assets.",
+  "studios": [
+    {
+      "slug": "a24",
+      "title": "A24",
+      "folderId": "folder-100dd937",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/a24/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/a24/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 284089,
+          "sha256": "59150beff743e8000024af39a3e73af176d20ae9f1df34026f90f899016f6263",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/41077-a24/cards/radial_24242c_0f0f13_0.35_0.35/card_41077_color_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "focus": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/a24/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/a24/focus.gif",
+          "width": 480,
+          "height": 269,
+          "frames": 174,
+          "bytes": 679660,
+          "sha256": "24ead186d26fa159344c2c53e6e52c3bb693feeb9fd2dcff6776cabf35bcdb70",
+          "sourceUrl": "https://i.imgur.com/taslPp7.gif",
+          "credit": "URL da coleção original",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/a24/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/a24/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1224419,
+          "sha256": "525e01ca6c429a06f01a3c0debdd790f413393b69d81910ae5dbdca52627508d",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/41077-a24/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "apple-studios",
+      "title": "Apple Studios",
+      "folderId": "folder-069af205",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/apple-studios/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 127450,
+          "sha256": "c526176358677c8e098ae2b03957738a4bbbd2340291ff3fa68d14b6708bc616",
+          "modified": true,
+          "treatment": "SVG layout rendered to PNG; original logo retained; no photographic upscaling",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_Studios.svg",
+          "credit": "Apple Inc. / Wikimedia Commons (PD-textlogo)"
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/apple-studios/hero.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/hero.png",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 372656,
+          "sha256": "b7104d10b4dbb6bf2af312ca03fccd89f30ab68d33fa1b5136ab9d2734d59d97",
+          "modified": true,
+          "treatment": "SVG layout rendered to PNG; original logo retained; no photographic upscaling",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_Studios.svg",
+          "credit": "Apple Inc. / Wikimedia Commons (PD-textlogo)"
+        }
+      }
+    },
+    {
+      "slug": "20th-century",
+      "title": "20th Century",
+      "folderId": "folder-a7d69ad6",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/20th-century/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/20th-century/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 232004,
+          "sha256": "c6288ea5404fc9f3db629a4eb189e78b7ddf4dd8de07b0e93c473c71932dc5c1",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/127928-20th-century-studios/cards/radial_24242c_0f0f13_0.35_0.35/card_127928_white_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/20th-century/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/20th-century/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1179546,
+          "sha256": "5034025610ebc7471b437b92610db43abe0a48589baba4d17c5db750551a142e",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/127928-20th-century-studios/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "disney",
+      "title": "Disney",
+      "folderId": "folder-7fca8074",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/disney/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/disney/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 184505,
+          "sha256": "41ea48cad4872145eee63ca17c6fa2e40d5590d378c84c9294a9ffa3b4d1b058",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/2-walt-disney-pictures/cards/radial_24242c_0f0f13_0.35_0.35/card_2_white_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "focus": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/disney/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/disney/focus.gif",
+          "width": 500,
+          "height": 304,
+          "frames": 17,
+          "bytes": 447569,
+          "sha256": "a3c899f6b49c9afa018ad32872b20e994865c404d86b50626f92a58d12dd730c",
+          "sourceUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/studios/walt-disney-pictures/walt-disney-pictures-landscape.gif",
+          "credit": "rrevanth/nuvio-assets",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/disney/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/disney/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1374560,
+          "sha256": "49b4f36af10930c1c18a544971984137da05d96ce9541428bb525ff74a339f32",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/2-walt-disney-pictures/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "dreamworks",
+      "title": "DreamWorks",
+      "folderId": "folder-0360af01",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/dreamworks/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/dreamworks/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 147843,
+          "sha256": "b885adddd1e798aab23e549937627e6d0ab595f9faac99e5205ab1396cbfee19",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/7-dreamworks-pictures/cards/radial_24242c_0f0f13_0.35_0.35/card_7_white_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "focus": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/dreamworks/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/dreamworks/focus.gif",
+          "width": 498,
+          "height": 208,
+          "frames": 65,
+          "bytes": 2175320,
+          "sha256": "f0be9c58e4eb0a7d085eb676eba590969fb6aad8c0a7587c16acaf4ed0be26dd",
+          "sourceUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/studios/dreamworks/dreamworks.gif",
+          "credit": "rrevanth/nuvio-assets",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/dreamworks/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/dreamworks/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1333488,
+          "sha256": "8f7d212b6033939f41e9f93bda21f7b9d18048c18660c3996acec10dcba669d1",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/7-dreamworks-pictures/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "lionsgate",
+      "title": "Lionsgate",
+      "folderId": "folder-10a74510",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/lionsgate/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/lionsgate/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 130480,
+          "sha256": "7b24bb2bc0c77ad996d35510e8338925833ed0a40cad4ab967f817eb74015b59",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/1632-lionsgate/cards/radial_24242c_0f0f13_0.35_0.35/card_1632_color_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/lionsgate/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/lionsgate/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1198988,
+          "sha256": "168fc8b0b9b887a016c505b72d95bad217af32f4c0427e325f1915b178ca8471",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/1632-lionsgate/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "paramount",
+      "title": "Paramount",
+      "folderId": "folder-4e6fff3c",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/paramount/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/paramount/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 257152,
+          "sha256": "910a04d67f9bb6c41e28bfc8a8b65e4522f5be880965019dfa3cce680ae5c68b",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/4-paramount-pictures/cards/radial_24242c_0f0f13_0.35_0.35/card_4_white_2.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/paramount/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/paramount/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1276883,
+          "sha256": "da7c440ade735541be5557bc6ae44559580f523d53f42e18edbc6a329e24be6e",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/4-paramount-pictures/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "pixar",
+      "title": "Pixar",
+      "folderId": "folder-61ee39b2",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/pixar/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/pixar/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 157402,
+          "sha256": "5070d6d3be3758efea85cb58e02b315bceb8c1b6522344cf0705a58199a168fe",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/3-pixar/cards/radial_24242c_0f0f13_0.35_0.35/card_3_color_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "focus": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/pixar/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/pixar/focus.gif",
+          "width": 500,
+          "height": 333,
+          "frames": 83,
+          "bytes": 3304572,
+          "sha256": "bae71002698aa6b4ea9c01a7d421fa9ac0741635de8a34cf805256c8d1a3f47c",
+          "sourceUrl": "https://raw.githubusercontent.com/MuditGuptaR/nuvio-assets/main/collections/studios/focused/pixar.gif",
+          "credit": "MuditGuptaR/nuvio-assets",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/pixar/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/pixar/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1356844,
+          "sha256": "034b762e8e01adab414a632b1ec4291c7dc54358f05e3a27e45432223276f63c",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/3-pixar/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "sony-pictures",
+      "title": "Sony Pictures",
+      "folderId": "folder-5f0ab48e",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/sony-pictures/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/sony-pictures/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 197838,
+          "sha256": "dac96a02971ea398931e0f959b03181cc6eafa68dedc23c4c7617bdc7a0c0038",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/34-sony-pictures/cards/radial_24242c_0f0f13_0.35_0.35/card_34_color_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/sony-pictures/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/sony-pictures/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1315249,
+          "sha256": "2e7660a4216bea3259b170f54f18f2150ed9d32acae8becfc8dfdaf9657e47ce",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/34-sony-pictures/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "universal",
+      "title": "Universal",
+      "folderId": "folder-f361383b",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/universal/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/universal/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 194692,
+          "sha256": "b4e0660a6ef326aa785dfd1c8829cdbffe6686bc5c8b5b8cf724d7cdf7173376",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/33-universal-pictures/cards/radial_24242c_0f0f13_0.35_0.35/card_33_white_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/universal/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/universal/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1183699,
+          "sha256": "2b4750995ef2eced28d18d2fcb5b6c11efcab4ff416136d4b3d8bb616e4fd372",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/33-universal-pictures/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "warner-bros",
+      "title": "Warner Bros.",
+      "folderId": "folder-41d84ca6",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/warner-bros/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/warner-bros/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 136293,
+          "sha256": "8c35dcd939d89c9b6894dc430aa93e03449a70d7921a8c2c1faf6e7c58e5c531",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/174-warner-bros-pictures/cards/radial_24242c_0f0f13_0.35_0.35/card_174_white_2.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/warner-bros/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/warner-bros/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1282488,
+          "sha256": "a8bbdc805a4a62be2cb3d250781c8699e9332fc206f6b1676b8c5528839cae0a",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/174-warner-bros-pictures/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    },
+    {
+      "slug": "cartoon-network",
+      "title": "Cartoon Network",
+      "folderId": "folder-bcf642ed",
+      "files": {
+        "cover": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/cartoon-network/cover.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/cartoon-network/cover.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 147228,
+          "sha256": "559cc6a6138a03713639a793c1daeed42d15189d5a61c6bf36736994d0a29af1",
+          "modified": true,
+          "treatment": "SVG layout rendered to PNG; original logo retained; no photographic upscaling",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/7899-cartoon-network-studios/logos/white/7899_white_1.png",
+          "credit": "bramst0ne/prism-wallpapers"
+        },
+        "focus": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/cartoon-network/focus.gif",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/cartoon-network/focus.gif",
+          "width": 500,
+          "height": 395,
+          "frames": 57,
+          "bytes": 1740862,
+          "sha256": "38edf51980836180490c2c1d0be174156f9d5905a6091ff87873e411260de5b8",
+          "sourceUrl": "https://raw.githubusercontent.com/MuditGuptaR/nuvio-assets/main/collections/studios/focused/cartoon-network.gif",
+          "credit": "MuditGuptaR/nuvio-assets",
+          "modified": false
+        },
+        "hero": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/cartoon-network/hero.jpg",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/cartoon-network/hero.jpg",
+          "width": 3840,
+          "height": 2160,
+          "frames": 1,
+          "bytes": 1442370,
+          "sha256": "7cfe36a752751442d011688679a2ecdbd06137f551356f9f8fac23634490addb",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/7899-cartoon-network-studios/backdrops/t1_4k.jpg",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        },
+        "logo": {
+          "path": "assets/covers/estudios/revisao-2026-10-18/cartoon-network/logo.png",
+          "url": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/cartoon-network/logo.png",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "bytes": 59650,
+          "sha256": "161611e271c3866bc9502e2b69f13d39a8dc359c04741e8a6f541ddf5b1121f8",
+          "sourceUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/7899-cartoon-network-studios/logos/white/7899_white_1.png",
+          "credit": "bramst0ne/prism-wallpapers",
+          "modified": false
+        }
+      }
+    }
+  ]
+}

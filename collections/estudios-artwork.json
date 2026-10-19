@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "collection-09ca5279-community",
+  "collectionTitle": "Estúdios de produção",
+  "folders": [
+    {
+      "id": "folder-100dd937",
+      "title": "A24",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/a24/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/a24/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/a24/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-069af205",
+      "title": "Apple Studios",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/hero.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/apple-studios/cover.png",
+        "focusGifEnabled": false
+      }
+    },
+    {
+      "id": "folder-a7d69ad6",
+      "title": "20th Century",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/20th-century/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/20th-century/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/20th-century/cover.png",
+        "focusGifEnabled": false
+      }
+    },
+    {
+      "id": "folder-7fca8074",
+      "title": "Disney",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/disney/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/disney/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/disney/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-0360af01",
+      "title": "DreamWorks",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/dreamworks/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/dreamworks/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/dreamworks/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-10a74510",
+      "title": "Lionsgate",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/lionsgate/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/lionsgate/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/lionsgate/cover.png",
+        "focusGifEnabled": false
+      }
+    },
+    {
+      "id": "folder-4e6fff3c",
+      "title": "Paramount",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/paramount/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/paramount/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/paramount/cover.png",
+        "focusGifEnabled": false
+      }
+    },
+    {
+      "id": "folder-61ee39b2",
+      "title": "Pixar",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/pixar/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/pixar/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/pixar/focus.gif",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-5f0ab48e",
+      "title": "Sony Pictures",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/sony-pictures/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/sony-pictures/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/sony-pictures/cover.png",
+        "focusGifEnabled": false
+      }
+    },
+    {
+      "id": "folder-f361383b",
+      "title": "Universal",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/universal/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/universal/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/universal/cover.png",
+        "focusGifEnabled": false
+      }
+    },
+    {
+      "id": "folder-41d84ca6",
+      "title": "Warner Bros.",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/warner-bros/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/warner-bros/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/warner-bros/cover.png",
+        "focusGifEnabled": false
+      }
+    },
+    {
+      "id": "folder-bcf642ed",
+      "title": "Cartoon Network",
+      "set": {
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/cartoon-network/cover.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/cartoon-network/hero.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/estudios/revisao-2026-10-18/cartoon-network/focus.gif",
+        "focusGifEnabled": true
+      }
+    }
+  ]
+}

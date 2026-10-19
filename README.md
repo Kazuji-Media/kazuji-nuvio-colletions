@@ -7,6 +7,13 @@ Capas, emblemas e referências de fontes para as coleções do Nuvio. O reposit�
 38 diretores com portrait colorido, portrait P&B e landscape transparente em resolução nativa.
 Veja a [documentação das artes e integração](docs/diretores-artwork.md), o [manifesto com fontes e créditos](assets/covers/diretores/revisao-2026-10-17/manifest.json) e o [mapeamento dos campos no Nuvio](collections/diretores-artwork.json).
 
+## Estúdios de produção
+
+12 capas em 1080p, 12 fundos em 4K e cinco GIFs de foco (A24, Disney, DreamWorks, Pixar e Cartoon Network), hospedados neste repositório.
+Importe [a coleção com animações](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/collections/estudios-producao.json) ou [a versão estática](https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/collections/estudios-producao-estatico.json).
+Veja [fontes, resoluções e integração](docs/estudios-artwork.md) e o [manifesto das artes](assets/covers/estudios/revisao-2026-10-18/manifest.json).
+Os GIFs preservam sua resolução nativa, inferior a HD. Os JSONs preservam as 25 fontes do backup local; para manter edições posteriores, aplique o mapeamento a uma exportação atual com o script documentado.
+
 ## Capas
 
 As versões abaixo usam texto em português do Brasil e gradientes animados em SVG. São novas variações vetoriais inspiradas nas capas da comunidade; não alteram nem redistribuem os GIFs de terceiros.
