@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "collection-00c97ab7-community",
+  "collectionTitle": "Gêneros",
+  "folders": [
+    {
+      "id": "folder-45f313e4",
+      "title": "Ação",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/acao-focus.png?v=39e7e743bc80",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-4b296b30",
+      "title": "Ficção científica",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/ficcao-cientifica-focus.png?v=9e433c90a4e0",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-d98721d2",
+      "title": "Documentário",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/documentario-focus.png?v=4fd0b635905e",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-66586578",
+      "title": "Terror",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/terror-focus.png?v=fe85c1e7619e",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-a213d0b9",
+      "title": "Comédia",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/comedia-focus.png?v=51d7c5d69dd2",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-4bccbc43",
+      "title": "Fantasia",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/fantasia-focus.png?v=e6e68f7766ba",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-03b12eef",
+      "title": "Animação",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/animacao-focus.png?v=f5c644c9e6c5",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-8bfccf3a",
+      "title": "Crime",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/crime-focus.png?v=c25f1826dbe9",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-8005faa8",
+      "title": "História",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/historia-focus.png?v=560b5904f197",
+        "focusGifEnabled": true
+      }
+    },
+    {
+      "id": "folder-a45e728a",
+      "title": "Faroeste",
+      "set": {
+        "focusGifUrl": "https://raw.githubusercontent.com/Kazuji-Media/kazuji-nuvio-colletions/feat/ptbr-collections-artwork/assets/covers/generos/faroeste-focus.png?v=3bb0375a18d2",
+        "focusGifEnabled": true
+      }
+    }
+  ]
+}

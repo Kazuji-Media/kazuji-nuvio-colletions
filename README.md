@@ -56,6 +56,11 @@ Veja [docs/fontes-tmdb.md](docs/fontes-tmdb.md) para as opções de descoberta, 
 
 ## Capas de gêneros e décadas
 
+Os dez gêneros com referência upstream também têm uma versão `-focus.png` com as
+silhuetas originais e título em pt-BR. As capas normais atuais são preservadas.
+Veja os [pares normal/foco e a integração](docs/capas-generos.md) e o
+[mapeamento dos campos de foco](collections/generos-artwork.json).
+
 As capas dos gêneros preservam a arte preto e branco das imagens usadas na coleção complementar; os rótulos foram localizados para pt-BR. As imagens originais foram copiadas sem alteração para [assets/covers/generos/originais](https://github.com/Kazuji-Media/kazuji-nuvio-colletions/tree/feat/ptbr-collections-artwork/assets/covers/generos/originais). A capa de Suspense usa uma composição original com rosto e mariposa, inspirada na referência enviada, no mesmo estilo gráfico.
 
 | Gênero | Capa pt-BR | Arte original |
